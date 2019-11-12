@@ -1,4 +1,4 @@
-* IOHK Shelley testnet stake pool registry
+* Shelley testnet stake pool registry
 *** Process
 ***** Entry submission: stake pool registration
 
