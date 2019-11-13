@@ -1,37 +1,46 @@
-* IOHK Shelley testnet stake pool registry
-*** Process
-***** Entry submission: stake pool registration
+* Incentivized Testnet Stake Pool Registry
+
+** Background
+This repository provides a means to register public stake pools for the Incentivized Testnet. Successful registrations will result in the listing of a stake pool as a delegation option in all of the supported testnet wallets (Daedalus & Yoroi)
+
+Stake pools must first be registered on chain (by sending a transaction with a certificate to the blockchain) before submitting an entry to this registry.
+
+Use of this registry is subject to the following [[https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry/blob/master/USAGE_POLICY.md][usage policy]].
+
+** Process
+*New stake pool registration:*
 
       Stake pool registrants will provide signed submissions in the form of Github pull
-      requests into the testnet pool registry. Here they will be subject to
-      automated checking for well-formedness and human vetting.
+      requests into this testnet pool registry. Here they will be subject to
+      automated checking for well-formedness and human vetting before being merged to master.
 
-***** Entry withdrawal: stake pool de-registration
+*Stake pool de-registration:*
 
       This action does not require any changes to the registry -- the inactive
       pools are simply ignored.
 
-***** Changing existing entries:
+*Updating existing entries:*
 
-      TODO: what changes are allowed and what is the process.
+      Stake pool registrants will provide signed submissions in the form of Github pull
+      requests into this testnet pool registry. Here they will be subject to
+      automated checking for well-formedness and human vetting before being merged to master.
+ 
+** Semantic content of registry entries
 
-*** Semantic content of registry entries
-
-    Generally speaking, the registry entries, taken as a whole, contain the
-    following information:
+    Each entry contains the following information:
 
     - subject identifier (ID) - a Bech32-encoded Ed25519 public key
     - stake pool ticker
     - URL of the stake pool's web page
-    - optional pledge address (also Bech32-encoded)
+    - a pledge address (also Bech32-encoded)
     - signature (verifiable by the public key)
 
     Precise entry validity rules are described in the following section.
 
-*** Submission well-formedness rules
+** Submission well-formedness rules
 
     1. Submissions shall consist of a single commit, directly off the master
-       branch of the IOHK =testnet-stake-pool-registry= repository.
+       branch of the =incentivized-testnet-stakepool-registry= repository.
     2. Submissions are identified by the subject's Bech32-encoded Ed25519 public
        key (all lowercase).
     3. Submissions shall either add a new entry or modify one.
