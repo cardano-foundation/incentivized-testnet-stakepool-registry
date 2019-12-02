@@ -118,12 +118,6 @@ Precise entry validity rules are described in the following section.
 
 8. The external signature file must be a ed25519 signature of the content of the metadata JSON file.
 
-9. The commit message must adhere to the following form, exactly:
-   - Just one line
-   - Starting with the ticker name, exactly as specified in the JSON file
-   - Immediately followed by a column, and then two space characters
-   - Immediately followed by words either "new" or "modify", reflecting the nature of the submission.
-
 ## Step-by-Step Example (Linux / Mac OS)
 
 > :information_source: Notice
@@ -173,7 +167,7 @@ $ jcli key sign \
 
 ```
 $ git add ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx.{json,sig}
-$ git commit -m "ADA1 new"
+$ git commit -m "ADA1"
 $ git push submission HEAD
 ```
 
