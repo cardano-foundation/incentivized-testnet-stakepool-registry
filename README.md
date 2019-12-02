@@ -51,7 +51,11 @@ Precise entry validity rules are described in the following section.
 
 5. The file name part of both files must match the aforementioned encoded owner public key, up to character case (all lowercase).
 
-6. Contents of the JSON file:
+6. The external signature file must be a ed25519 signature of the content of the metadata JSON file.
+
+7. The `ticker` and `owner` must be unique in the registry.
+
+8. Contents of the JSON file:
    1. Must be a JSON object, reasonably (non-offensively) formatted,
    2. Must satisfy the following [JSON-schema](https://json-schema.org/):
 
@@ -113,10 +117,6 @@ Precise entry validity rules are described in the following section.
      }
    }
    ```
-
-7. The `ticker` and `owner` must be unique in the registry.
-
-8. The external signature file must be a ed25519 signature of the content of the metadata JSON file.
 
 ## Step-by-Step Example (Linux / Mac OS)
 
