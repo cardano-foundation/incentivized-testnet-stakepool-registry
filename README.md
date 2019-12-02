@@ -33,7 +33,7 @@ name             | necessity | description
 `pledge_address` | required  | a pledge address
 \-               | required  | signature (verifiable by the public key)
 
-:warning: The `owner` public key mentioned here **must match** your owner public key used for registering your stake pool on chain! :warning:
+:warning: The `owner` public key mentioned here **must match** your owner public key used for registering your stake pool on chain!
 
 Precise entry validity rules are described in the following section.
 
