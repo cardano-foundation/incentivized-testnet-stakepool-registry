@@ -24,7 +24,7 @@ Under no circumstances shall Stake Pool Operators upload, post, host, reference 
 - is discriminatory or abusive toward any individual or group;
 - depicts or promotes violence, including violent images;
 - contains or installs any active malware or exploits, or uses our service for exploit delivery;
-- infringes on any proprietary rights of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.
+- infringes on any proprietary rights of any party, including patent, trademark, product name, trade secret, copyright, right of publicity, or other rights, including those of CF, IOHK or Emurgo.
 
 #### b. Conduct Restrictions
 
