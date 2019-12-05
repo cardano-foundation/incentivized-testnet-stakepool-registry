@@ -24,7 +24,7 @@ Under no circumstances shall Stake Pool Operators upload, post, host, reference 
 - is discriminatory or abusive toward any individual or group;
 - depicts or promotes violence, including violent images;
 - contains or installs any active malware or exploits, or uses our service for exploit delivery;
-- infringes on any proprietary rights of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.
+- infringes on any proprietary rights of any party, including patent, trademark, product name, trade secret, copyright, right of publicity, or other rights, including those of CF, IOHK or Emurgo.
 
 #### b. Conduct Restrictions
 
@@ -45,10 +45,12 @@ Stake Pool Operators are responsible for using this Repository in compliance wit
 
 By using this Repository, you agree that the following data and information you submit will be made public, including but not limited to its use in any of the supported Testnet Wallets: 
 
-1. Your pool identifier (ID - Bech32-encoded)       
-2. Your stake pool ticker (3 to 4 character identifier)        
-3. The URL of your stake pool’s web page         
-4. Your pledge address (Bech32-encoded)             
+1. Your owner public key (Bech32-encoded)       
+2. Your stake pool ticker (3 to 5 character identifier)        
+3. Your stake pool name (1 to 50 character identifier)
+4. A description of your stake pool (1 to 255 characters)
+5. The URL of your stake pool’s web page         
+6. Your pledge address (Bech32-encoded)             
 
 ### 7. Best Effort Delivery
 
