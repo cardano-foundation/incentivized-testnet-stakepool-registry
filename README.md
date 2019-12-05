@@ -177,8 +177,8 @@ $ git push submission HEAD
 
 6. Make a pull request :tada:!
 
-:warning: At this point in time, we are opening a pre-registration process for new stake pools. 
-
-So if you register your stake pool now, your pull request will remain open until the point at which the complete network functionality is available, when it will be merged and officially registered. 
-
-Once your stake pool is fully registered it will appear as a delegation option in the supported testnet wallets.
+> :warning: At this point in time, we are opening a pre-registration process for new stake pools. 
+> 
+> So if you register your stake pool now, your pull request will remain open until the point at which the complete network functionality is available, when it will be merged and officially registered. 
+> 
+> Once your stake pool is fully registered it will appear as a delegation option in the supported testnet wallets.
