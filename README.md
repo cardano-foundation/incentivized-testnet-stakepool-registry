@@ -154,6 +154,8 @@ ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx
 
 > :bulb: You can check that your JSON is valid by using the JSON-schema above and your metadata file in a tool like https://www.jsonschemavalidator.net/
 
+> :question: The `pledge_address` can be any valid address you own. However, we recommend using the _account address_ corresponding to your Daedalus or Yoroi assigned reward account. This account may also be used to fund your registration certificate for your stake pool.
+
 4. Sign it using your owner private key (`ed25519_pk1qpp...ru55mx.sig`)
 
 ```
