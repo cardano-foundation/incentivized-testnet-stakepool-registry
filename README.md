@@ -1,7 +1,9 @@
 # Incentivized Testnet Stake Pool Registry
 
 ##  Background
-This repository provides a means to register public stake pools for the Incentivized Testnet. Successful registrations will result in the listing of a stake pool as a delegation option in all of the supported testnet wallets (Daedalus & Yoroi)
+This repository provides a means to register public stake pools for the Incentivized Testnet. Successful registrations will result in the listing of a stake pool as a delegation option in all of the supported testnet wallets (Daedalus & Yoroi).
+
+Adding your stake pool to this registry is only one of several steps required to get your stake pool up and running. Please refer to the [testnet site](https://testnet.iohkdev.io/en/cardano/shelley/about/testnet-introduction/) for a description of the entire process.
 
 Use of this registry is subject to the following [usage policy](USAGE_POLICY.md)
 
@@ -153,6 +155,8 @@ ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx
 ```
 
 > :bulb: You can check that your JSON is valid by using the JSON-schema above and your metadata file in a tool like https://www.jsonschemavalidator.net/
+
+> :question: The `pledge_address` can be any valid address you own. However, we recommend using the _account address_ corresponding to your Daedalus or Yoroi assigned reward account. This account may also be used to fund your registration certificate for your stake pool.
 
 4. Sign it using your owner private key (`ed25519_pk1qpp...ru55mx.sig`)
 
