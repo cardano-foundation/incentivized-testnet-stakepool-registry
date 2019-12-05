@@ -1,7 +1,9 @@
 # Incentivized Testnet Stake Pool Registry
 
 ##  Background
-This repository provides a means to register public stake pools for the Incentivized Testnet. Successful registrations will result in the listing of a stake pool as a delegation option in all of the supported testnet wallets (Daedalus & Yoroi)
+This repository provides a means to register public stake pools for the Incentivized Testnet. Successful registrations will result in the listing of a stake pool as a delegation option in all of the supported testnet wallets (Daedalus & Yoroi).
+
+Adding your stake pool to this registry is only one of several steps required to get your stake pool up and running. Please refer to the [testnet site](https://testnet.iohkdev.io/en/cardano/shelley/about/testnet-introduction/) for a description of the entire process.
 
 Use of this registry is subject to the following [usage policy](USAGE_POLICY.md)
 
