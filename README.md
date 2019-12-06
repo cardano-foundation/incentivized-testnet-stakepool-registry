@@ -134,7 +134,7 @@ $ cd incentivized-testnet-stakepool-registry
 $ git remote add submission git@github.com:<your-github-username>/incentivized-testnet-stakepool-registry
 ```
 
-2. Create a public/private key pair (`owner.prv` & `owner.pub`)
+2. Create a public/private key pair or use an existing one (`owner.prv` & `owner.pub`)
 
 ```
 $ jcli key generate --type ed25519 | tee owner.prv | jcli key to-public > owner.pub
@@ -142,6 +142,9 @@ $ cat owner.{prv,pub}
 ed25519_sk1----------------------------------------------------------
 ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx
 ```
+
+> :warning: If you want to be able to monitor your rewards inside Daedalus or Yoroi, make sure 
+> to derive your owner public key from your mnemonic sentence at the right derivation path (e.g `m/1852'/1815'/0'/2/0`).
 
 3. Create a minimal JSON file (`ed25519_pk1qpp...ru55mx.json`)
 ```json
