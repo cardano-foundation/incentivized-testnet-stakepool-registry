@@ -1,7 +1,1 @@
-{
-  "owner": "ed25519_pk1j58fa52l4kc22gsxl6qkpl76djeznfqmqvkk9mtcqc093sqfgvds7mkvtp",
-  "name": "My Stake Pool",
-  "ticker": "ANKA",
-  "homepage": "http://ankachain.com",
-  "pledge_address": "addr1shk3x04sf8t3h4jkt220x8cpru3thyd9rv20l98uka7a2kv7zcl47lw9pzq"
-}
+ed25519_sig1f6swl2t6ca7pjmleaqzz3xtm07xhkhg8drsuth5t5ehxzshy3et6j0c23swqtvm44x77dhuludku7xnrafpvw5u0y33xmep82us6kzc5mgf6s
