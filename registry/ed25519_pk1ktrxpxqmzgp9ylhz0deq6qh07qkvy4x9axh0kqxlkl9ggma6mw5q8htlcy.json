@@ -1,7 +1,7 @@
 {
-  "owner": "ed25519_pk1ktrxpxqmzgp9ylhz0deq6qh07qkvy4x9axh0kqxlkl9ggma6mw5q8htlcy",
+  "owner": "ed25519_pk1fknmj4yvw28pj0rwdywrhxxxmmkpknny3cfak6cnx44c7ly8wp7skzeag9",
   "name": "JSCS Cardano Staking",
   "ticker": "JSCS",
   "homepage": "https://www.jscs.com",
-  "pledge_address": "addr1skevvcycrvfqy5n7ufahyrgzalczesj5ch56a7cqm7mu4pr0htd6sfrxjzu"
+  "pledge_address": "addr1s4x60w2533eguxfude53cwuccm0wcx6wvj8p8kmtzv6khrmusac862sygj3"
 }
