@@ -1,7 +1,7 @@
 {
   "owner": "ed25519_pk1tdrzvc76rs3f4jsfyse8z9rcp8lg28a5tgnghmqwgc9w39l5hxvquee3t6",
   "name": "A CardanoLand Stake Pool",
-  "ticker": "ACAL",
+  "ticker": "ACL",
   "homepage": "https://cardanoland.com",
   "pledge_address": "addr1s4d5vfnrmgwz9xk2pyjryug50qylapglk3dzdzlvperq46yh7jues3m7t24"
 }
