@@ -2,6 +2,7 @@
   "owner": "ed25519_pk1ehmm9t49ayamjqryx5fmd0ja7vus5chuzax6v2dgdcwn9hypqx3q4vl7lm",
   "name": "ADrAchma",
   "ticker": "ADRX",
+  "description": "The GreeK Node",
   "homepage": "https://adrachma.gr",
   "pledge_address": "addr1shxl0v4w5h5nhwgqvs638d47thenjznzlst5mf3f4php6vkusyq6yc4m2eh"
 }
