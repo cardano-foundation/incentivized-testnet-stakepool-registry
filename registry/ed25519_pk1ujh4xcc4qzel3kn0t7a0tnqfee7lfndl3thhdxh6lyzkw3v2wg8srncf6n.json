@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1ujh4xcc4qzel3kn0t7a0tnqfee7lfndl3thhdxh6lyzkw3v2wg8srncf6n",
+  "name": "Stakelovelace.io Italy",
+  "ticker": "ITA",
+  "description": "An italian based Cardano staking pool",
+  "homepage": "https://stakelovelace.io/it",
+  "pledge_address": "addr1shj275mrz5qt87x6da0m4awvp888maxdh79w7a56ltus2e693feq7ufdat3"
+}
