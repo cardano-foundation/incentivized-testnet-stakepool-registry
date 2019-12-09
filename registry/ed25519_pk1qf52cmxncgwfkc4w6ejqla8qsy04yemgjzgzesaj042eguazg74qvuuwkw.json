@@ -1,6 +1,7 @@
 {
   "owner": "ed25519_pk1qf52cmxncgwfkc4w6ejqla8qsy04yemgjzgzesaj042eguazg74qvuuwkw",
   "name": "Swiss Invest",
+  "description": "Cardano Investment – Stake pools with high security and reliability. Based in Switzerland",
   "ticker": "000",
   "homepage": "https://cardanoinvestment.com",
   "pledge_address": "addr1s5px3trv60ppexmz4mtxgrl5uzq375n8dzgfqtxrkf74t9rn5fr65ah86va"
