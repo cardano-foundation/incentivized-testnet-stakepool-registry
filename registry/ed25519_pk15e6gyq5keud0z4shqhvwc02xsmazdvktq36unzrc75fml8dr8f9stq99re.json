@@ -1,8 +1,7 @@
 {
-    "owner": "ed25519_pk15e6gyq5keud0z4shqhvwc02xsmazdvktq36unzrc75fml8dr8f9stq99re",
-    "name": "info/CARDANO",
-    "description": "info/CARDANO StakePool",
-    "ticker": "INFO",
-    "homepage": "https://infocardano.org",
-    "pledge_address": "addr1skn8fqszjm834u2kzuza3mpag6r05f4jevz8tjvg0r6380ua5vaykn72djf"
+ "owner": "ed25519_pk15e6gyq5keud0z4shqhvwc02xsmazdvktq36unzrc75fml8dr8f9stq99re",
+ "name": "info/CARDANO",
+ "ticker": "INFO",
+ "homepage": "https://infocardano.org",
+ "pledge_address": "addr1skn8fqszjm834u2kzuza3mpag6r05f4jevz8tjvg0r6380ua5vaykn72djf"
 }
