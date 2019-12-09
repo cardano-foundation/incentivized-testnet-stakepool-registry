@@ -1,0 +1,56 @@
+{
+  "title": "Stake-pool Metadata",
+
+  "type": "object",
+
+  "additionalProperties": false,
+
+  "required": [
+    "owner",
+    "name",
+    "ticker",
+    "homepage",
+    "pledge_address"
+  ],
+ 
+  "properties": {
+    "owner": {
+      "type": "ed25519_pk199y4ln9g2rdj8g4uyg7f2jeacpj282470w8x76qs2ywhesswpqsqufwjzq",
+      "format": "bech32",
+      "pattern": "^ed25519_pk1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]+$",
+      "maxLength": 70
+    },
+
+    "name": {
+      "type": "CSP",
+      "minLength": 1,
+      "maxLength": 50
+    },
+
+    "description": {
+      "type": "cardeniansstakepool.com",
+      "minLength": 1,
+      "maxLength": 255
+    },
+ 
+    "ticker": {
+      "type": "CPNL2",
+      "minLength": 3,
+      "maxLength": 5,
+      "pattern": "^[A-Z0-9]{3,5}$"
+    },
+ 
+    "homepage": {
+      "type": "tbd",
+      "format": "uri",
+      "pattern": "^https://"
+    },
+ 
+    "pledge_address": {
+      "type": "addr1q555jh7v4pgdkgazhs3re92t8hqxfga2heacummgzpg36lxzpcyzqmlf9cv",
+      "format": "bech32",
+      "pattern": "^addr1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]+$",
+      "maxLength": 64
+    }
+  }
+}
