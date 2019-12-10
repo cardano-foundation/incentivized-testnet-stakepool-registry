@@ -1,8 +1,7 @@
 {
-  "owner": "ed25519_pk12j09wlry34hsu0wf07kwkp08gthpc4v6yehnztehsznwtz6mz8psu77>
+  "owner": "ed25519_pk12j09wlry34hsu0wf07kwkp08gthpc4v6yehnztehsznwtz6mz8psu77",
   "name": "AUTOMATIA.IO",
   "ticker": "ALEA",
   "homepage": "https://automatia.io",
-  "pledge_address": "addr1s42fu4muvjxk7r3ae9l6e6c9uapwu8z4ngnx7vf0x7q2devttvgu>
+  "pledge_address": "addr1s42fu4muvjxk7r3ae9l6e6c9uapwu8z4ngnx7vf0x7q2devttvgu"
 }
-
