@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519",
+  "name": "Seven Seas",
+  "ticker": "7CS1",
+  "description": "Connecting the World",
+  "homepage": "https://sevenseas.com",
+  "pledge_address": "addr1"
+}
