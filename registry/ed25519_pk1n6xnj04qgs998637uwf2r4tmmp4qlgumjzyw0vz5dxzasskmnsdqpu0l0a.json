@@ -1,7 +1,7 @@
 {
   "owner": "ed25519_pk1n6xnj04qgs998637uwf2r4tmmp4qlgumjzyw0vz5dxzasskmnsdqpu0l0a",
   "name": "Cardano Vault",
-  "description": "CardanoVault.weebly.com is a fully distributed, 24/7 available stake-pool for Cardano",
+  "description": "cardanovault.weebly.com is a fully distributed, 24/7 available stake-pool for Cardano",
   "ticker": "CAVA",
   "homepage": "https://cardanovault.weebly.com",
   "pledge_address": "addr1skfdqe7d6zklt2v6mq9d3wh2zsdcazdmye55cyhzqfkwxaky3w8x204zvfk"
