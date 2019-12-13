@@ -2,6 +2,7 @@
   "owner": "ed25519_pk1y7qtm0effehfhgpj0w90xhcy7pgkz3jehsftv62f3apu8lvupfpqul7tyr",
   "name": "ADA North Pool",
   "ticker": "ANP",
+  "description": "ADA North Pool :: Reliable server hardware dedicated to staking pool operations Ryzen 3700X 2x UPS 2200VA 64GB ECC RAM 1TB RAID1 enterprise 24/7 disk and 2X 500GB NVME system/log disks, internet 1GB fiber with redundancy. Located in Norway with access to server inhouse 24/7. Actively participating with community.",
   "homepage": "https://adanorthpool.com",
   "pledge_address": "addr1s5ncp0dl998xaxaqxfac4u6lqnc9zc2xtx7p9dnffx858slans9yyllaq0s"
 }
