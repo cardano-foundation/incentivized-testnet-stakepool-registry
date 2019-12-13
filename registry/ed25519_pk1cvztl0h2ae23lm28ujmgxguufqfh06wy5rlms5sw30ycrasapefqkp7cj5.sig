@@ -1,7 +1,1 @@
-{
-	  "owner": "ed25519_pk1cvztl0h2ae23lm28ujmgxguufqfh06wy5rlms5sw30ycrasapefqkp7cj5",
-	    "name": "InGround Pool",
-	      "ticker": "EARTH",
-	        "homepage": "https://www.adainground.com",
-		  "pledge_address": "addr1shpsf0a7ath928ldgljtdqern3ypxalfcjs0lwzjp69unq0kr589ygq93dd"
-}
+ed25519_sig1ejar36g2cj8tp625e4qjk2tfsk3g3j8xh5xmhp25zqshug4u5lsvuys2m2q5nrz9n564ysq3ck8zquk86smtrperuj6u53n35sa26qg45467l
