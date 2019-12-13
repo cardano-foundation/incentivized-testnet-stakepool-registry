@@ -1,4 +1,4 @@
-# Incentivized Testnet Stake Pool Registry
+# Incentivized Testnet Stake Pool Meta Data Registry
 
 ##  Background
 This repository provides a means to register public stake pools for the Incentivized Testnet. Successful registrations will result in the listing of a stake pool as a delegation option in all of the supported testnet wallets (Daedalus & Yoroi).
