@@ -1,0 +1,8 @@
+ 
+{ 
+  "owner": "ed25519_pk1re68pksv9euwrkzye73cfpm38kp4zk502a87x00szp95rquv4shqywjgl4",
+  "name": "ADA2 Stake Pool",
+  "ticker": "ADA2",
+  "homepage": "https://www.cardano.org",
+  "pledge_address": "addr1s508gux6psh83cwcgn868py8wy7cx5263at5lcea7qgyksvr3jkzua3t4v6"
+}
