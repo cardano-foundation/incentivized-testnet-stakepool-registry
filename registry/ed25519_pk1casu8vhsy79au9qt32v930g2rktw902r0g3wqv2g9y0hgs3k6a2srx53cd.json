@@ -1,9 +1,0 @@
-{
-   "owner": "ed25519_pk1casu8vhsy79au9qt32v930g2rktw902r0g3wqv2g9y0hgs3k6a2srx53cd",
-   "name": "LetzBake!",
-   "description": "LetzBake! is among the best performing block producers on Tezos. We are happy to launch on Cardano, and to prove our reliability to delegators we operate a stake pool completely free of any charge during the entire incentivized testnet phase!",
-   "ticker": "BAKE1",
-   "homepage": "https://letzbake.com",
-   "pledge_address": "addr1shrkrsaj7qnchhs5pw9fsk9apgwedc4agdaz9cp3fq537azzxmt427dascd"
- }
-
