@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1cwk2x3h2sjzu6pxqmqgu8xe0a2822mwamx2x9ftgslg3snqyfz9qgvkzmh",
-  "name": "TricahuePool",
-  "description": "A Stake Pool for the Cardano network located in Chile",
-  "ticker": "ADA1",
-  "homepage": "https://exteroqs.github.io/TricahuePool/",
-  "pledge_address": "addr1shp6eg6xa2zgtngycrvprsum9l4gaftdmhvegc49dzrazxzvq3yg5exhdsm"
-}
