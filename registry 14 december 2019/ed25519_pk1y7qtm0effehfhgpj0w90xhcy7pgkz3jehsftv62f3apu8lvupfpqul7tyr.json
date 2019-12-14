@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1y7qtm0effehfhgpj0w90xhcy7pgkz3jehsftv62f3apu8lvupfpqul7tyr",
-  "name": "ADA North Pool",
-  "ticker": "ANP",
-  "description": "Reliable hardware, Ryzen 3700X 64GB ECC ram 1TB RAID1 enterprise 24/7 disks 2x Backup power UPS 2200VA 2X 500GB NVME. Draws between 35-65watts of power server and 15-30watt from network equipment that is also on UPS. Located inhouse in Norway with 24/7 physical access to server. I try to contribute and engage with the community for example through my website and through my contributions as a stake pool operator on The Cardano Effect or other media related to Cardano.",
-  "homepage": "https://adanorthpool.com",
-  "pledge_address": "addr1s5ncp0dl998xaxaqxfac4u6lqnc9zc2xtx7p9dnffx858slans9yyllaq0s"
-}
