@@ -1,7 +1,6 @@
 {
   "owner": "ed25519_pk1lwc7myswahj2cnj24eruktz2fvjfk6q83zr4feuq0f28gd7hcf3sx8cd7e",
-  "name": "CreatePlanets Stakepool",
-  "description": "日本のステークプール。24時間オンラインで安定したステーキングを提供！Japanese Stake Pool.Provides stable staking online 24 hours a day!",
+  "name": "Create Planets Stakepool",
   "ticker": "CPS",
   "homepage": "https://createplanets.com/",
   "pledge_address": "addr1shamrmvjpmk7ftzwf2hy0jevff9jfxmgq7ygw488spa9gaph6lpxxqx29qx"
