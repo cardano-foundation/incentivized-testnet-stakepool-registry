@@ -122,5 +122,4 @@ Precise entry validity rules are described in the following section.
 
 ## Step-by-Step Guides
 
-- [How to Register Your Owner Metadata](https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry/wiki/How-to-Register-Your-Owner-Metadata)
-- [How to Register Your Stake Pool](https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry/wiki/How-to-Register-Your-Stake-Pool)
+See [Wiki](https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry/wiki).
