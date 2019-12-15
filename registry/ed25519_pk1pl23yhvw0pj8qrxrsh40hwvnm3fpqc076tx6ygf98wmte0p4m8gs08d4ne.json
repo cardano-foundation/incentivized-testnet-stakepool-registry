@@ -3,5 +3,5 @@
   "name": "FutureCrypto.info - Staking Cardano",
   "ticker": "FCIA",
   "homepage": "https://futurecrypto.info/staking-cardano-ada",
-  "pledge_address": addr1s58a2yja3euxguqvcwz747aej0w9yyrplmfvmg3py5amd09uxhvazsymgcu
+  "pledge_address": "addr1s58a2yja3euxguqvcwz747aej0w9yyrplmfvmg3py5amd09uxhvazsymgcu"
 }
