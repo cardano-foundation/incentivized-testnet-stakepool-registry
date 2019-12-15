@@ -1,7 +1,7 @@
 {
   "owner": "ed25519_pk13fr6f46yqgc2mczfyhtmu9jcp05nfau4m4ggahajfdsms59rxepq33ccq7",
   "name": "Straight Pool",
-  "description": "Straight pool aims to secure the Cardano network by running a competitive 24/7 pool on decentralized infrastructure maintained by IT professionals. The fees ensure longevity of the pool, there is no other purpose, thus the name of our pool."
+  "description": "Straight pool aims to secure the Cardano network by running a competitive 24/7 pool on decentralized infrastructure maintained by IT professionals. The fees ensure longevity of the pool, there is no other purpose, thus the name of our pool.",
   "ticker": "STR8",
   "homepage": "https://straightpool.github.io/about/",
   "pledge_address": "addr1s3ez845mgyzgvfuehsjrcqdanwh7tg4vn4x4szuyqx4nn6ks7kdmrz8xpq0h2xflzcxamrs97kl60eyspex84l8yrc62nr99s9xdv79086h37x"
