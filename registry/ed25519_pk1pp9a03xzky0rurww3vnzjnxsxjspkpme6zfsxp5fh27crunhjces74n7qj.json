@@ -2,7 +2,6 @@
   "owner": "ed25519_pk1pp9a03xzky0rurww3vnzjnxsxjspkpme6zfsxp5fh27crunhjces74n7qj",
   "name": "My ADA Pool",
   "ticker": "MAP",
-  "description": "MAP | We are adding more values for Cardano ecosystem by providing the staking pool.",
   "homepage": "https://myadapool.com",
   "pledge_address": "addr1s5yyh47yc2c3u0sde69jv22v6q62qxc808gfxqcx3xatmq0jw7trx2lgwfc"
 }
