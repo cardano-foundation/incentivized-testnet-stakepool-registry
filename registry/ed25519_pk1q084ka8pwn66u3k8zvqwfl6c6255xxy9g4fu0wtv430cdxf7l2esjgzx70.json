@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1q084ka8pwn66u3k8zvqwfl6c6255xxy9g4fu0wtv430cdxf7l2esjgzx70",
+  "name": "Pi 4 Pool",
+  "description": "Optimized for efficiency and reliability. Server hosted in Switzerland.",
+  "ticker": "POOL",
+  "homepage": "https://www.pi4pool.com",
+  "pledge_address": "addr1shspytac9extssvje05pj34a4p0zkx4wlkqt0lvj7edyak2msks6csq8pux"
+}
