@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ed25519_sig1l46k5rcnv3xpdvnxtq38f2w0dq9dnuwjtml95rz0vwuhx4jk5kfq6gaxc2fgy26ex4ft0lxssj9j40kt9v7m7wga3ufdq7zupzd2ypczxw2n9
-=======
-ed25519_sig1cm2antw7tfy0g4850uszl7k2vlgzn7s99t852easklln80a4we3e8mql4lslnfzph0ryw4m99gsst7vzvq4rvv2nwhkjupke6zfckqgkyllax
->>>>>>> a95620f73fffabf83efa6cde306c117f4feefed3
+ed25519_sig1e0t0gksx87rz03w6mprk6qjmwu6gsyq6vhdhm66q53n877km7hupf7hywl3uc6y04c87m2n4wksrqg3lsckqjq84quj5nchp2muegrsk9rsad
