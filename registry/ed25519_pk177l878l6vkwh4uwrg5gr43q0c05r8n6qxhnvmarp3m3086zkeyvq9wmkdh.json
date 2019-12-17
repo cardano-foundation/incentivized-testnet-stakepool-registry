@@ -2,6 +2,7 @@
 'owner': 'ed25519_pk177l878l6vkwh4uwrg5gr43q0c05r8n6qxhnvmarp3m3086zkeyvq9wmkdh',
 'name': 'ada4charity.org',
 'ticker': '4CHAR',
+'description': 'A non-for profit pool. Earn passive income while contributing with active income to great causes! Pool stakes can serve as collateral relief in case of emergencies. This first 25% pool will serve as seed funding to set-up a legal entity during testnet phase, hopefully under supervision and cooperation with CF & Emurgo. Subsequent pools as low fee prototypes. Read it up on our website!', 
 'homepage': 'https://ada4charity.org',
 'pledge_address': 'addr1shmmulcllfje67h3cdz3qwkyplp7sv70gq67dn05vx8w9ulg2my3sq6s2kr'
 }
