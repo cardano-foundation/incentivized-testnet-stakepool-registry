@@ -1,0 +1,8 @@
+{
+	"owner":"ed25519_pk17zy5t53vyvxzyxpgcgn4hnjeuz8u5tl3ghjs9fm0sn8semjf4l7qc0pzwz",
+	"name":"VW Staking",
+	"description":"VW’s enterprise-grade staking server. Join our community on our website to monitor rewards, get network status updates, and see other useful information all from one place!",
+	"ticker":"VWS",
+	"homepage":"https://vwstaking.com/",
+	"pledge_address":"addr1shf02r8le0jpsv4j38alvxsjjnjwhr84utmc6u9hqg828dkvjs0p5xf784q"
+}
