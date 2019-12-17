@@ -1,0 +1,8 @@
+{
+	"owner": "ed25519_pk130w7dfqfzlsuvrpewu7m3uurrvafyfs6kj28ev8jfu8sp59l862qvylvvg",
+	"name": "Arizona USA Stakepool",
+	"ticker": "AZUSA",
+	"description": "Incentivized Testnet Stakepool located in Arizona, USA.",
+	"homepage": "",
+	"pledge_address": "addr1sk9ame4ypyt7r3sv89mnmw8nsvdn4y3xr26fgl9s7f8s7qxshulfggl30yj"
+}
