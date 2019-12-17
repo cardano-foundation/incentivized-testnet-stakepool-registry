@@ -1,13 +1,13 @@
 {
 
-'owner': 'ed25519_pk12wsjyt2zl0de3kslc4n42f6sklhrkzt8vcqyslxn9fnjn2mlad3sp55vue',
+"owner": "ed25519_pk12wsjyt2zl0de3kslc4n42f6sklhrkzt8vcqyslxn9fnjn2mlad3sp55vue",
 
-'name': 'S.P. ADA',
+"name": "S.P. ADA",
 
-'ticker': 'SPADA',
+"ticker": "SPADA",
 
-'homepage': 'https://johnstoffer15.wixsite.com/spada',
+"homepage": "https://johnstoffer15.wixsite.com/spada",
 
-'pledge_address': 'ca1s4f6zg3dgtaahxx6rlzkw4f82zm7uwcfvanqqjru6v4xw2dt0l4kxcd27ra'
+"pledge_address": "ca1s4f6zg3dgtaahxx6rlzkw4f82zm7uwcfvanqqjru6v4xw2dt0l4kxcd27ra"
 
 }
