@@ -3,6 +3,6 @@
 	"name": "Arizona USA Stakepool",
 	"ticker": "AZUSA",
 	"description": "Incentivized Testnet Stakepool located in Arizona, USA.",
-	"homepage": "",
+	"homepage": "https://sites.google.com/view/cardano-stakepool-azusa",
 	"pledge_address": "addr1sk9ame4ypyt7r3sv89mnmw8nsvdn4y3xr26fgl9s7f8s7qxshulfggl30yj"
 }
