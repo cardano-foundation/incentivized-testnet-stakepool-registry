@@ -1,8 +1,8 @@
 {
-  "owner": "ed25519_pk1ncvcg9n97fkgwc2st3jwyxjeajf593f74vas2j743h50h6sl4mwq9rj4q",
+  "owner": "ed25519_pk1qdcrjtzchsxr3kjlmgvvej9pj3yc0hw244m29evdlpqwfjw50qwq9fa4t5",
   "name": "Adaverse Stake Pool",
   "description": "Minimum Cost, Maximum Rewards - Delegates receive 98% of all rewards.",
   "ticker": "ADAVS",
   "homepage": "https://adaverse.com",
-  "pledge_address": "addr1sk0pnpqkvhexepmp2pwxfcs6t8kfxsk9864nkp2t6kx737l2r7hdcm6hr5p"
+  "pledge_address": "addr1s5phqwfvtz7qcwx6tldp3nxg5x2ynp7ae2khdgh93huypexf63upcnvzwa9"
 }
