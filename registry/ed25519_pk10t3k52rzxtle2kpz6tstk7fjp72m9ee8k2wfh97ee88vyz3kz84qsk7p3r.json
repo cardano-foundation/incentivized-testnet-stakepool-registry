@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk10t3k52rzxtle2kpz6tstk7fjp72m9ee8k2wfh97ee88vyz3kz84qsk7p3r",
+  "name": "Lovelace Community Pool",
+  "ticker": "LCP01",
+  "description": "No fee, community supported, Cardano staking pool -- No joke, 100% free (as in beer).",
+  "homepage": "https://lovelace.community",
+  "pledge_address": "addr1s4awx63gvge0l92cytfwpwmexg8etvh8y7efexuhm8yuass2xcg75mzcfc9"
+}
