@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1rx336jvwzpe3ps77fka0c7ksa8zksn6g0ac3n8pw57zcw2tlfhrq75ky6t",
+  "name": "Drachma",
+  "description": "Staking on the ADA network",
+  "ticker": "DRCH",
+  "homepage": "http://drachma.tech",
+  "pledge_address": "addr1s5v6x82f3cg8xyxrmexm4lr66r5u26z0fplhzxvu96nctpef0axuvj2mjqz"
+}
