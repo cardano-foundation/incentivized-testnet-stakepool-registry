@@ -1,11 +1,10 @@
 {
-'owner': 'ed25519_pk1nm8frtnm8r8yf7tn920akuhtw5s2xaug4mepk84kn3l9znansh0qn206ej',
+'owner': 'ed25519_pk10mqpxuzhyd756d5ngsveupknhs2a9uvustlfw543j4avjae8dhssqq34pl',
 'name': 'Stake Pool Selection',
 'ticker': 'LION',
-'homepage': 'stalepoolselection.info',
+'homepage': 'stakepoolselection.info',
 'pledge_address': 'addr1s4lvqyms2u3h6nfkjdzpn8sx6w7pt5h3njp0a96jkx2h4jthyak7zez8u98'
 }
-
 
 
 
