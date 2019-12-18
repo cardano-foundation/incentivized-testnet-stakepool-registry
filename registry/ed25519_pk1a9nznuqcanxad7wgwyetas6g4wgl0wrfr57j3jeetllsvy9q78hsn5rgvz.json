@@ -1,0 +1,7 @@
+{
+'owner': 'ed25519_pk1a9nznuqcanxad7wgwyetas6g4wgl0wrfr57j3jeetllsvy9q78hsn5rgvz',
+'name': 'Cardano Staking Pool',
+'ticker': 'ADA-P',
+'homepage': 'http://stake-cardano.org',
+'pledge_address': 'addr1sh5kv20srrkvm4heepcn90krfz4eraacdywn62xt890l7pss5rc77kpv03k'
+}
