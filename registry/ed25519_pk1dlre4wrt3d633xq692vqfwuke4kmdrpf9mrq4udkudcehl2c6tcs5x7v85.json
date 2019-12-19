@@ -1,0 +1,8 @@
+{
+'owner': 'ed25519_pk1dlre4wrt3d633xq692vqfwuke4kmdrpf9mrq4udkudcehl2c6tcs5x7v85',
+'name': 'Nekota Pool',
+'description':'猫のアイコンのNekotaプールです。Nekotaプールは経験豊富なエンジニアと組み、皆様に福を招くプールとして、ベストパフォーマンスを目指します。',
+'ticker': 'NEKO',
+'homepage': 'https://www.publickey.co.jp',
+'pledge_address': 'addr1s4hu0x4cdw9h2xycrg4fsp9mjmxkmd5v9yhvvzh3km3hrxlatrf0z689547'
+}
