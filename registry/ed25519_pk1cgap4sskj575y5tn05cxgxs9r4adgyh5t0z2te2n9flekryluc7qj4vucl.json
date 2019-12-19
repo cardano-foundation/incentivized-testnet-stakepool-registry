@@ -2,8 +2,8 @@
   "owner": "ed25519_pk1cgap4sskj575y5tn05cxgxs9r4adgyh5t0z2te2n9flekryluc7qj4vucl",
   "name": "Synergy",
   "ticker": "SYNRG",
-  "homepage": "https://staking.synergy-ev.de",
-  "description": "non-profit geek club; any excess funds made with this pool goes into our projects",
+  "homepage": "https://staking.synergy-lan.de",
+  "description": "non-profit geek club; any excess funds made with this pool goes into our yearly lanparty project",
   "pledge_address": "addr1shpr5xkzz62n6sj3wd7nqeq6q5wh44qj73duff092v48lxcvnlnrcjvhfzv"
 }
 
