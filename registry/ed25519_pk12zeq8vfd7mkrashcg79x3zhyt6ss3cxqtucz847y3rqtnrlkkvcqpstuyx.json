@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk12zeq8vfd7mkrashcg79x3zhyt6ss3cxqtucz847y3rqtnrlkkvcqpstuyx",
+  "name": "MLMA Staking",
+  "description": "MLMA Staking",
+  "ticker": "MLMA",
+  "homepage": "https://mlmastaking.info",
+  "pledge_address": "addr1s4gtyqa39hmwc0kzlprc56y2u302zz8qcp0nqg7hcjyvpwv076enqe6myqk"
+}
