@@ -1,0 +1,8 @@
+{
+	"owner": "ed25519_pk1adhtm7cflhcj9vvu2kfjppckkd4wcqk9wds65qyndkhtvxfru6vqqfslk0",
+	"name":	"StakePoolTech",
+	"ticker": "SPT",
+	"description": "the tech body connection",
+	"homepage": "https://stakepooltech.github.io",
+	"pledge_address": "addr1sh4ka00mp87lzg43n32exgy8z6ek4mqzc4ekr2sqjdk6adsey0nfs59d0w4"
+}
