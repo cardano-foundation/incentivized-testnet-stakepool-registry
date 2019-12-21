@@ -2,7 +2,6 @@
   "owner": "ed25519_pk1dv9q7wsxuec8l797gvs55z3f6t7y4xf09zxcpaadrlcw06dezrqqgr8x0d",
   "name": "Kiwi Pool",
   "ticker": "KIWI",
-  "description": "New Zealand based pool - hunker down with me in the world's favourite doomsday bunker location! Truly decentralised with physical bare-metal hardware (no VPS), battery-backup and internet connectivity fail-over. Website coming soon.",
-  "homepage": "https://kiwipool.org",
+  "description": "New Zealand based pool - hunker down with me in the world's favourite doomsday bunker location! Website coming soon . . .",
   "pledge_address": "addr1s44s5re6qmn8qllchepjzjs298f0cj5e9u5gmq8h450lpelfhygvqhat6ur"
 }
