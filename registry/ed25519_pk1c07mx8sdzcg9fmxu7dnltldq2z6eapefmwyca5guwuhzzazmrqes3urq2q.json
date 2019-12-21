@@ -1,0 +1,8 @@
+{ 
+"owner": "ed25519_pk1c07mx8sdzcg9fmxu7dnltldq2z6eapefmwyca5guwuhzzazmrqes3urq2q", 
+"name": "appledrops II", 
+"ticker": "DROPS",
+"description": "a community-made pool for the community - help us to be decentralized", 
+"homepage": "https://appledrops.de", 
+"pledge_address": "addr1shplmvc7p5tpq48vmnek0a0a5pgtt85898dcnrk3r3mjugt5tvvrxv8krx8"
+}
