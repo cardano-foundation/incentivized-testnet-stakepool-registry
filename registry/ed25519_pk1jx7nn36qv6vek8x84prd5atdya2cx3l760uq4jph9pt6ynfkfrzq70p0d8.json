@@ -1,7 +1,7 @@
 {
-'owner': 'ca1skgm6ww8gpnfnxcuc75ydkn4d5n4tq68lmflszkgxu590gjdxeyvgsr3cqu',
-'name': '24/7 Stake Pool in Europe',
-'ticker': 'EU01',
-'homepage': 'https://www.StakePool247.eu',
-'pledge_address': 'addr1skgm6ww8gpnfnxcuc75ydkn4d5n4tq68lmflszkgxu590gjdxeyvgyw4u8m'
+"owner": "ca1skgm6ww8gpnfnxcuc75ydkn4d5n4tq68lmflszkgxu590gjdxeyvgsr3cqu",
+"name": "24/7 Stake Pool in Europe",
+"ticker": "EU01",
+"homepage": "https://www.StakePool247.eu",
+"pledge_address": "addr1skgm6ww8gpnfnxcuc75ydkn4d5n4tq68lmflszkgxu590gjdxeyvgyw4u8m"
 }
