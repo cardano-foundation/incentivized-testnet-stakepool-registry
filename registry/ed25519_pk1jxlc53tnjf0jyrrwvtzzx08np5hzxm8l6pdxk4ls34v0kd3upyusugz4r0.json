@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1jxlc53tnjf0jyrrwvtzzx08np5hzxm8l6pdxk4ls34v0kd3upyusugz4r0",
+  "name": "Arcadia",
+  "description": "The Arcadia Cardano Stake Pool",
+  "ticker": "ARCS",
+  "homepage": "https://arcadiastakepool.com",
+  "pledge_address": "addr1skgmlzj9wwf97gsvde3vggeu7vxjugmvllg9566h7zx437ek8synjg8ycpe"
+}
