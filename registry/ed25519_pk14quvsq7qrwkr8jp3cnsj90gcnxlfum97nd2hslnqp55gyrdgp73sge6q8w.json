@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk14quvsq7qrwkr8jp3cnsj90gcnxlfum97nd2hslnqp55gyrdgp73sge6q8w",
-  "name": "LTR Pool",
-  "description": "One pool to rule them all...",
-  "ticker": "LTRP",
-  "homepage": "https://lotrpool.com",
+  "name": "Carpe Cardano",
+  "description": "Carpe Cardano! Resilient affordable staking.",
+  "ticker": "CARPE",
+  "homepage": "https://carpecardano.com",
   "pledge_address": "addr1sk5r3jqrcqd6cv7gx8zwzg4arzvma8nvh6d427r7vqxj3qsd4q86xaqhreq"
 }
