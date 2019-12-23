@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1uw8fvj5yhkqedr7jxc83p2ujdcz6480qhs7hatdkq8z3aujy406qzsgup6",
-  "name": "Cardano Community Pool 1",
-  "description": "Cardano Community Pool (Symbol: CCP1) is built on Amazon infrastructure to provide superior reliability and performance at a low rate with zero fixed fees.",
-  "ticker": "CCP1",
-  "homepage": "https://cardanocommunitypool.com",
+  "name": "Squid Pool",
+  "description": "Squid Pool (Symbol: SQUID) is built on Amazon infrastructure to provide superior reliability and performance at a low rate with zero fixed fees.",
+  "ticker": "SQUID",
+  "homepage": "https://squidpool.com",
   "pledge_address": "addr1sh3ca9j2sj7cr9506gmq7y9tjfhqt25auz7r6l4dkcqu28hjgj4lgne2sfx"
 }
