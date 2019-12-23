@@ -1,0 +1,9 @@
+{
+"owner": "ed25519_pk1s2tg763ch0pka8dl2ckxr6az40w6w0628xnvf6pwj3zz7qj0hnasldauyt",
+"name": "GalacticADA",
+"ticker": "GADA",
+"description": "GalacticADA is an indipendently run stake pool, supporting decentralization by using dedicated infrastructure",
+"homepage": "https://galacticada.com",
+"pledge_address": "addr1skpfdrm28zauxm5ahatzcc0t524amfelfgu6d38g962ygtczf770k66vxhm"
+}
+
