@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk",
-  "name": "Epic Stake Pool #1",
+  "name": "Epic Stake Pool #3",
   "description": "Low Fees | Very Secure | Always Online! This is the Epic Stake Pool vision of how pools should be run! Join us now to become an Epic staker!",
-  "ticker": "EPIC1",
+  "ticker": "EPIC3",
   "homepage": "https://www.EpicPool.eu",
   "pledge_address": "addr"
 }
