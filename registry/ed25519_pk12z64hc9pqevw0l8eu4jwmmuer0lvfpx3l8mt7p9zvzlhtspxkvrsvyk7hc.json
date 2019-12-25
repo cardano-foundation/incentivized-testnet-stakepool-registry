@@ -1,0 +1,9 @@
+{
+  "owner": "ed25519_pk12z64hc9pqevw0l8eu4jwmmuer0lvfpx3l8mt7p9zvzlhtspxkvrsvyk7hc",
+  "name": "CardanoQualityStakingPool.io",
+  "ticker": "CQSP",
+  "description": "A secure and reliable stake pool. No fixed fee, only 2% of variable fee.",
+  "homepage": "https://CardanoQualityStakingPool.io",
+  "pledge_address": "addr1s4gt2klq5yr93elul8jkfm00nydla3yy68uld0cy5fst7awqy6esw0nr0qn"
+}
+
