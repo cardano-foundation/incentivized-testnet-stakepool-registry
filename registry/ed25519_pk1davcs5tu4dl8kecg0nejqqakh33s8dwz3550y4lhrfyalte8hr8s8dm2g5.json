@@ -3,6 +3,6 @@
   "name": "SEGV Stakepool",
   "ticker": "SEGV",
   "description": "A secure and reliable stake pool. Built on Amazon infrastructure to provide 24/7 reliability and performance at a low rate with zero fixed fees",
-  "homepage": "",
+  "homepage": "https://segvstakepool.io",
   "pledge_address": "addr1s4h4nzz30j4hu7m8pp70xgqrk67xxqa4c2xj3ujh7udynha0y7uv7pvfpcu"
 }
