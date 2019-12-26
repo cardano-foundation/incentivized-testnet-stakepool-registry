@@ -1,8 +1,8 @@
 {
-    'owner': 'ed25519_pk1kyvyhs30vx9denlwygdua20f3et6ee2d07rjz8g8xatkajknctrs2g93ha',
-    'name': 'Augmata Hive',
-    'ticker': 'AUH',
-    'description': 'Automated systems for an augmented future through vastly distributed collective intelligence.',
-    'homepage': 'https://gitlab.com/redgoatpioneers',
-    'pledge_address': 'addr1skc3sj7z9asc4hx0ac3phn4fax890t89f4lcwggaqum4wmk260pvww4n3vj'
+    "owner": "ed25519_pk1kyvyhs30vx9denlwygdua20f3et6ee2d07rjz8g8xatkajknctrs2g93ha",
+    "name": "Augmata Hive",
+    "ticker": "AUH",
+    "description": "Automated systems for an augmented future through vastly distributed collective intelligence.",
+    "homepage": "https://redgoatpioneers.com/cardano/",
+    "pledge_address": "addr1skc3sj7z9asc4hx0ac3phn4fax890t89f4lcwggaqum4wmk260pvww4n3vj"
 }
