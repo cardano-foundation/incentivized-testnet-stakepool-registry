@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk12z64hc9pqevw0l8eu4jwmmuer0lvfpx3l8mt7p9zvzlhtspxkvrsvyk7hc",
+  "name": "Core Stakepool",
+  "ticker": "CORE",
+  "description": "A secure and reliable stake pool. Built on Amazon infrastructure to provide 24/7 reliability and performance at a low rate with zero fixed fees",
+  "homepage": "https://CoreSegv.io",
+  "pledge_address": "addr1s4gt2klq5yr93elul8jkfm00nydla3yy68uld0cy5fst7awqy6esw0nr0qn"
+}
