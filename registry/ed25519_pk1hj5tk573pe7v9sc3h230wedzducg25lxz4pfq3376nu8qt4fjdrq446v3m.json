@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1hj5tk573pe7v9sc3h230wedzducg25lxz4pfq3376nu8qt4fjdrq446v3m",
+  "name": "Staking Kiwis",
+  "description": "A high reliability, non-profit stakepool run by a team from New Zealand. Never miss a block.",
+  "ticker": "KIWIS",
+  "homepage": "https://kiwis.nonprofitstakepools.org",
+  "pledge_address": "addr1sk723w6n6y88eskrzxa29am95fhnpp2nuc259yzx8m20supw4xf5vl70qdz"
+}
