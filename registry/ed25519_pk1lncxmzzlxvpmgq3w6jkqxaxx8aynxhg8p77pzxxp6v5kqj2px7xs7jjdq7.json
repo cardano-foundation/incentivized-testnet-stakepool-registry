@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1lncxmzzlxvpmgq3w6jkqxaxx8aynxhg8p77pzxxp6v5kqj2px7xs7jjdq7",
+  "name": "VWStaking",
+  "ticker": "VWX",
+  "description":"VW’s cloud-based staking server. We are testing both types to see which will return greatest rewards on the main net. Join our website community to monitor rewards, get network status updates, and see other useful information all from one place!",
+  "homepage": "https://vwstaking.com",
+  "pledge_address": "addr1sh70qmvgtues8dqz9m22cqm5ccl5jv6aqu8mcygcc8fjjczfgymc6jkayvl"
+}
