@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1gvasjrw5yaqc7jn702fvagyzcu4ne03frdg756lhllsff4patchs9d2k76",
+  "name": "Viper Stake Pool",
+  "description": "Fast, reliable, and secure Cardano stake pool backed by the 99.9% uptime guarantee of Amazon Web Services and operated by the team at Viper Science.",
+  "ticker": "VIPER",
+  "homepage": "https://viperscience.com/adapool",
+  "pledge_address": "addr1s4pnkzgd6sn5rr620eaf9n4qstrjk0979yd4r6nt7ll7p9x5840z7gty9yy"
+}
