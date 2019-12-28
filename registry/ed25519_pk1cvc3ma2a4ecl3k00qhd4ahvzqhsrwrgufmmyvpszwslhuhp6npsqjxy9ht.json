@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1cvc3ma2a4ecl3k00qhd4ahvzqhsrwrgufmmyvpszwslhuhp6npsqjxy9ht",
+  "name": "Jelly",
+  "description": "Stable  stakepool with low taxes",
+  "ticker": "ADA1",
+  "homepage": "jelly.market",
+  "pledge_address": "addr1shpnz804tkh8r7xeauzakhkasgz7qdcdr380v3sxqf6r7lju82vxql3x9lx"
+}
