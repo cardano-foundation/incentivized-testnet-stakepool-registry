@@ -1,0 +1,8 @@
+{
+"owner": "ed25519_pk1a496z5tjr5s3lnkpje8d395h3dsz354pkcyd6r6ra2prccc4su2qf8wl7m",
+"name": "VN Stake Pool",
+"description": "A low-fee, highly secure and reliable stake pool run by DevOps Engineer.",
+"ticker": "VN01",
+"homepage": "https://adastaking.info",
+"pledge_address": "addr1shk5hg23wgwjz87wcxtyakykj79kq2xj5xmq3hg0g04gy0rrzkr3g4xwayv"
+}
