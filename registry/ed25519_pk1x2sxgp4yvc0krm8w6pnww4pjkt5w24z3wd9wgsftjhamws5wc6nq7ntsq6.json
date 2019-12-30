@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1x2sxgp4yvc0krm8w6pnww4pjkt5w24z3wd9wgsftjhamws5wc6nq7ntsq6",
+    "name": "SEGV stake pool 1",
+    "ticker": "SEGV1",
+    "description": "A secure and reliable stake pool for the community. 24/7 reliability and performance at a 2% rate with zero fixed fees",
+    "homepage": "https://segvstakepool.io",
+    "pledge_address": "addr1s5e2qeqx53np7c0vamgxde65x2ew3e2529e54ezp9w2lhd6z3mr2vyd8rrh"
+}
