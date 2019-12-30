@@ -3,6 +3,6 @@
   "name": "LINUX",
   "description": "A Fully Linux Pool",
   "ticker": "LINUX",
-  "homepage": "https://linuxpool.io"
+  "homepage": "https://linuxpool.io",
   "pledge_address": "addr1s424l6gyj565szas6rq70k2xy046qks7hgr7fa60u0kthhpldj6nkalnj6d"
 }
