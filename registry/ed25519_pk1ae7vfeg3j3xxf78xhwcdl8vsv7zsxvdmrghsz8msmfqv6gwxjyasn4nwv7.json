@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1ae7vfeg3j3xxf78xhwcdl8vsv7zsxvdmrghsz8msmfqv6gwxjyasn4nwv7",
-  "name": "MONZO Pool",
-  "ticker": "MONZO",
-  "homepage": "https://monzopool.com",
+  "name": "MYTH Pool",
+  "ticker": "MYTH",
+  "homepage": "https://mythpool.com",
   "pledge_address": "addr1shh8e389zx2yce8cu6amphuajpnc2qe3hvdz7qglwrdypnfpc6gnkp3jgzc",
-  "description": "Visit our website to check MONZO pool status."
+  "description": "Visit our website to check MYTH pool status."
 }
