@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1z4j8cv98s054glg5amp45x447pqpqelsntpr0zqg2u5yew2lmxhs24v6s2",
+  "name": "napangelopool",
+  "ticker": "NAPG",
+  "description": "Experimental Low cost ada pool",
+  "homepage": "https://napangelo.github.io/napacardano/index.html",
+  "pledge_address": "addr1s52kglps57p7j4raznhvxks6khcyqyr87zdvydugpptjsn9etlv67gv28ut"
+}
