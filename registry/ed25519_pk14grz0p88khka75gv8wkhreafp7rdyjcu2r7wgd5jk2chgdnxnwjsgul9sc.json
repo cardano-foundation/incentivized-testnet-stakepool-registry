@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk14grz0p88khka75gv8wkhreafp7rdyjcu2r7wgd5jk2chgdnxnwjsgul9sc",
+    "name": "gori00gori",
+    "ticker": "G0RI",
+    "description": "Experimental Low cost ada pool",
+    "homepage": "https://github.com/gori02469/incentivized-testnet-stakepool-registry",
+    "pledge_address": "addr1sk4qvfuyu767mh63psa66u084y8cd5jtr3g0eepkj2etzapkv6d6287zwf5"
+}
