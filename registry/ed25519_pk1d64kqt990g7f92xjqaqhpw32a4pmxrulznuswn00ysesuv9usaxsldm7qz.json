@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1d64kqt990g7f92xjqaqhpw32a4pmxrulznuswn00ysesuv9usaxsldm7qz",
+  "name": "EMURGO’ STAKEPOOL",
+  "ticker": "3EMUR",
+  "homepage": "https://emurgo.io",
+  "description": "EMURGO’s official Stake Pool. EMURGO is one of three organizations that contribute to the development of Cardano. Let’s make this Testnet successful by delegation to multiple stakepools.",
+  "pledge_address": "addr1s4h2kcpv54arey4g6gr5zu969tk58vc0nu20jp6daujrxr3shjr56mq8vq9"
+}
