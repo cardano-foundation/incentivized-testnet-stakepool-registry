@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1ps3kkq65j5z6uk8m7n9l2qvs5zq5cjpglff4q56a0qvadnqzh2msjrun9n",
+  "name": "OnFinality 1",
+  "ticker": "ONFI1",
+  "description": "Experimental ada pool",
+  "homepage": "https://www.onfinality.io/",
+  "pledge_address": "addr1s5xzx6cr2j2sttjcl06vhagpjzsgznzg9ra9x5znt4upn4kvq2atwyrkwrl"
+}
