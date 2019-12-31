@@ -1,0 +1,10 @@
+{
+  "owner": "ed25519_pk1aa6zn3mk54zjcgkkaaeh6gu7vu5vxmq625gerwg6ggwj4s7gwefq96gmg2",
+  "name": "HOPE Pool",
+  "description": "日本のプールとして、カルダノにHOPEを持たせる一役になります。English&Korean supported",
+  "ticker": "HOPE",
+  "homepage": "https://cardano.ipclub29.com/stakepool/",
+  "pledge_address": "addr1shhhg2w8w6j52tpz6mhhxlfrnenj3smvrf23ryderfpp62krepm9yn59mj7"
+}
+
+
