@@ -1,8 +1,0 @@
-{
- "owner": "ed25519_pk1v3r8e9hdzddhuy33alnegdzdrs3pcu3x92dqmftpp9k262um2caqvxp5ky",
- "name": "Bakon",
- "ticker": "BKN",
- "description": "This pool is ran on a machine in a data center with fail over ISP, battery backup, and docker swarms for maximum uptime and performance",
- "homepage": "https://ethernode.io",
- "pledge_address": "addr1s4jyvlyka5f4klsjx8h709p5f5wzy8rjyc4f5rd9vyyketftndtr5la0r3t"
-}

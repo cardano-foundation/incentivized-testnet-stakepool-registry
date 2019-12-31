@@ -1,8 +1,0 @@
-{ 
-  "owner": "ed25519_pk13asla48lqt59l003d5xryrcxrjnsfyw3kh96f8ffxtl77wmp2ues9t343w",
-  "name": "BULL Stake Pool",
-  "ticker": "BULL",
-  "description": "For ADA belivers, supporting decentralisation. VPS based. Always online.",
-  "homepage": "https://www.stakepool.ru",
-  "pledge_address": "addr1sk8krlk5lupwshaa79kscvs0qcw2wpy36x6uhfya9ye0lmemv9tnx4p6tme"
-}

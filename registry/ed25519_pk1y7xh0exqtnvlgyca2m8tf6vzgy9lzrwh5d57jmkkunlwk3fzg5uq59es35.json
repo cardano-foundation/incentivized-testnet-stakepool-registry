@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1y7xh0exqtnvlgyca2m8tf6vzgy9lzrwh5d57jmkkunlwk3fzg5uq59es35",
-  "name": "ADA Planet",
-  "ticker": "ADAPL",
-  "description": "A no-nonsense Cardano ADA staking pool",
-  "homepage": "https://adaplanet.com",
-  "pledge_address": "addr1s5nc6alycpwdnaqnr4tvad8fsfqshugd673kn6tw6mj0a669yfzns6n7lj0"
-}

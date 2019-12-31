@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1fyr3kw8t8gga6h2lf0ey7x6la0y2g8yghs3txfcl8q2an0tfwhcqe2724d",
-  "name": "CryptoBounty Stakepool 1",
-  "description": "Incentivized Testnet Stakepool for Cryptobounty LLC",
-  "ticker": "BNTY1",
-  "homepage": "https://cryptobounty.org",
-  "pledge_address": "addr1s4yswxecavaprh2ata9lyncmtl4u3fqu3z7z9ve8ruuptkdad96lql3d9gg"
-}

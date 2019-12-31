@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk18rv3g0gnrf3fyezr5e830w4y3qezdsfwe0470qgt76j3yve6lugs8c29pj",
-  "name": "lovelacepool",
-  "description": "test  stakepool for lovelacepool",
-  "ticker": "1LOVE",
-  "homepage": "https://lovelacepool.com",
-  "pledge_address": "addr1s5udj9pazvdx9ynygwny79a65jyryfkp9m97heupp0m22y3n8tl3zpmsnx2"
-}

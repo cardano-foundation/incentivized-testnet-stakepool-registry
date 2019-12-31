@@ -1,8 +1,0 @@
-{ 
-  "owner": "ed25519_pk1w5z77rj69vqghjkv4kghhpzej83zesx2u053hp9qrlkg2602s4jsps07aa",
-  "name": "Staking 365",
-  "ticker": "S365",
-  "description": "EC2 hosted node. 30 years in the making, relilable host. Go ADA",
-  "homepage": "https://ada365.info",
-  "pledge_address": "addr1s46stmcwtg4spz72ejkez7uytxg7ytxqet37jxuy5q07eptfa2zk2md8wzg"
-}
