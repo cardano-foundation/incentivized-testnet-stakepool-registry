@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk15rgte8k6t0jpvxf6yt6x6ckw63vxahvrx8z0xf3yfyxq947fvnws05dxgu",
+  "name": "Spada",
+  "description": "Spada Stakepool",
+  "ticker": "SPADA",
+  "homepage": "https://spada.io",
+  "pledge_address": "addr1sksdp0y7mfd7g9se8g30gmtzem29smkasvcufuexy3yscqkhe9jd6yjpx8l"
+}
