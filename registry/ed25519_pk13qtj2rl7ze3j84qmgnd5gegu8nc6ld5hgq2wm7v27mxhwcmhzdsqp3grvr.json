@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk13qtj2rl7ze3j84qmgnd5gegu8nc6ld5hgq2wm7v27mxhwcmhzdsqp3grvr",
+  "name": "OuroBot",
+  "description": "OuroBot core nodes are placed strategically throughout the globe and are interconnected using dedicated circuits. We have designed our stake pool network to deliver unmatchable performance.",
+  "ticker": "ROBOT",
+  "homepage": "https://robot.adaizen.com",
+  "pledge_address": "addr1skypwfg0lctxxg75rdzdk3r9rs70rtakjaqpfm0e3tmv6amrwufkqjkyn0v"
+}
