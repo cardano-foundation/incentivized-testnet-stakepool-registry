@@ -1,8 +1,0 @@
-{
-    "owner": "$PUBLIC_KEY_PK",
-    "name": "Kairos Stake Pool",
-    "ticker": "KAIRO",
-    "description": "The appointed time and opportunity",
-    "homepage": "https://kairosway.org",
-    "pledge_address": "$ACCOUNT_ADDRESS"
-}
