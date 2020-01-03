@@ -1,0 +1,8 @@
+{
+"owner": "ed25519_pk1qt3cx78k46gs0rndkxpdf0md6962lmuajsfrxs0huspjdlrpev7qfrwsg5",
+"name": "SUSU",
+"description": "Cardano Staking Pool",
+"ticker": "SUSU",
+"homepage": "https://susu.yolostaking.com/",
+"pledge_address": "addr1s5pw8qmc76hfzpuwdkcc949ldhghftl0nk2pyv6p7ljqxfhuv89nccyf9a5"
+}
