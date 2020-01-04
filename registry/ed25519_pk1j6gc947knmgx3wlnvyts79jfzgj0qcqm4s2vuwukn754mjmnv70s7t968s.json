@@ -1,6 +1,7 @@
 {
   "owner": "ed25519_pk1j6gc947knmgx3wlnvyts79jfzgj0qcqm4s2vuwukn754mjmnv70s7t968s",
   "name": "Pegasus Pool",
+  "description": "We develop tools and create educational materials for the community to increase adoption and spread awareness of the platform. Pegasus keeps the community up to date with live network statistics and pool monitoring, creator of Pegasus Tool mobile app.",
   "ticker": "PEGA",
   "homepage": "https://pegasuspool.info",
   "pledge_address": "addr1sktfrqkh660dq69m7ds3wrckfyfzfurqrwkpfn3mj606jhwtwdne7tgg42s"
