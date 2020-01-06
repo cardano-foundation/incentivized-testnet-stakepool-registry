@@ -1,7 +1,7 @@
 {
-'owner': 'ed25519_pk12m5cnaak9k9xrxvkwkfwn2sremw3c9vkszr9pc2rrra97zks80mq3haxf9',
-'name': 'FGEN Mining stake pool',
-'ticker': 'FGEN',
-'homepage': 'https://example.org',
-'pledge_address': 'addr1s4twnz0hkckc5cveje6e96d2q08d68q4j6qgv58pgvv05hc26qalvqt86s7'
+"owner": "ed25519_pk12m5cnaak9k9xrxvkwkfwn2sremw3c9vkszr9pc2rrra97zks80mq3haxf9",
+"name": "FGEN Mining stake pool",
+"ticker": "FGEN",
+"homepage": "https://example.org",
+"pledge_address": "addr1s4twnz0hkckc5cveje6e96d2q08d68q4j6qgv58pgvv05hc26qalvqt86s7"
 }
