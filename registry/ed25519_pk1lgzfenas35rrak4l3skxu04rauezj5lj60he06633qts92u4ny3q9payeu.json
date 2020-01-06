@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1lgzfenas35rrak4l3skxu04rauezj5lj60he06633qts92u4ny3q9payeu",
+    "name": "AIS Staking",
+    "description": "Cardano Testnet stake pool",
+    "ticker": "AIS",
+    "homepage": "https://ais-staking.net",
+    "pledge_address": "addr1shaqf8x0kzxsv0k6h7xzcm3750hny22n7tf7l9lt2xypwq4tjkvjyulrgqk"
+}
