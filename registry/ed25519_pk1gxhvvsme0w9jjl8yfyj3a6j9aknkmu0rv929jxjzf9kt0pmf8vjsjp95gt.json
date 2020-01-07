@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1gxhvvsme0w9jjl8yfyj3a6j9aknkmu0rv929jxjzf9kt0pmf8vjsjp95gt",
+  "name": "Malone pool",
+  "description": "Awesome malone pool",
+  "ticker": "MLNE",
+  "homepage": "https://malone.alweb.fr",
+  "pledge_address": "addr1s4q6a3jr09ack2tuu3yj28h2ghk6wm03uds4gkg6gfykedu8dyaj2t0ljch"
+}
