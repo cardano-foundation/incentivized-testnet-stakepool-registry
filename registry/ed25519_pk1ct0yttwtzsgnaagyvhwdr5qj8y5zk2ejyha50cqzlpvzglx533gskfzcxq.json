@@ -1,8 +1,8 @@
 {
-"owner": "ed25519_pk1v8tg44al3rhp859uds454czrpw2dknhlq306wexqs49flmhdgm4qtyny8p",
+"owner": "ed25519_pk1ct0yttwtzsgnaagyvhwdr5qj8y5zk2ejyha50cqzlpvzglx533gskfzcxq",
 "name": "Ouroboros-Atlas",
 "ticker": "OURAT",
 "homepage": "https://www.ouroboros-atlas.com",
-"pledge_address": "addr1s4sadzkhh7ywuy7sh3kzkjhqgv9efk6wluz9lfmyczz548lwa4rw5nv2yn8",
+"pledge_address": "addr1shpdu3ddev2pz0h4q3jae5wszgujs2etxgjlk3lqqtu9sfru6jx9zl7enxv",
 "description": "Helping secure the Cardano blockchain through ethical staking operations."
 }
