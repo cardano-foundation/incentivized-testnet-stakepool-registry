@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1uefj9hp4xl7xqcd08l00faq4yv9lsgdp9tnfd2hm372a7nlt5ghsd7l4e9",
+    "name": "Ox Head Stake Pool",
+    "description": "Stake Pool from the Developer of Ox Head: Dashboard and control system for your Jörmungandr Cardano node.",
+    "ticker": "OXH",
+    "homepage": "https://stake.oxhead.info",
+    "pledge_address": "addr1shn9xgkux5mlccrp4ulaaa85z53sh7pp5y4wd942lw8eth60aw3z73llw0a"
+}
