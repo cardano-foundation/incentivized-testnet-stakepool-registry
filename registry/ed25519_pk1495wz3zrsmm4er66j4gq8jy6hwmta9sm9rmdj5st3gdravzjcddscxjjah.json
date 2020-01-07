@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1495wz3zrsmm4er66j4gq8jy6hwmta9sm9rmdj5st3gdravzjcddscxjjah",
+  "name": "Toy Cardano Pool",
+  "ticker": "TOY",
+  "description": "Come on in, the water's fine!",
+  "homepage": "https://toycardano.com",
+  "pledge_address": "addr1sk5k3c2ygwr0why0t224qq7gn2amd05krv50dk2jpw9p504s2tp4k2jhmlc"
+}
