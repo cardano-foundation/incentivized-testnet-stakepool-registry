@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1um37ef0ncgyt5gn9lk0dhy42dm2zranx75qs7vfukvu30kdpjhwssva706",
+  "name": "ASC Pool",
+  "description": "An ADA Staking Cardano Pool for everyone.",
+  "ticker": "ASCP",
+  "homepage": "https://www.adastakingcardano.com",
+  "pledge_address": "addr1shnw8m9970pq3w3zvh7eakuj4fhdgg0kvm6szre38jenj97e5x2a6mm4t6l"
+}
