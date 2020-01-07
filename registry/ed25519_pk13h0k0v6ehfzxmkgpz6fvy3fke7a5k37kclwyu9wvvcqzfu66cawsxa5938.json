@@ -1,7 +1,7 @@
 {
     "owner": "ed25519_pk13h0k0v6ehfzxmkgpz6fvy3fke7a5k37kclwyu9wvvcqzfu66cawsxa5938",
     "name": "Microstakepool",
-    "description": "Come and stake with MICRO!, delegate and support the network!."
+    "description": "Come and stake with MICRO!, delegate and support the network!.",
     "ticker": "MICRO",
     "homepage": "http://microstakepool.com",
     "pledge_address": "addr1skxa7eantxaygmweqytf9sj9xm8mkj686mracns4e3nqqf8nttr46ah5k52"
