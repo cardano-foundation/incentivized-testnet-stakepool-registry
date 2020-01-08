@@ -1,7 +1,8 @@
 {
 'owner': 'ed25519_pk1zt8sh0fx7dgw28fw2dvxcytwnek0gdh63pm20k58ax7jkmrcpg0se5njz0',
-'name': 'LuXxXx Pool of Luxembourg',
-'ticker': 'LUXX',
+'name': 'Pool of Luxembourg',
+'description': 'Stake at the financial hub of Europe',
+'ticker': 'LUX',
 'homepage': 'https://www.banquedeluxembourg.com',
 'pledge_address': 'addr1s5fv7zaayme4pega9ef4smq3d60xeapkl2y8df76sl5m62mv0q9p7gvrm0v'
 }
