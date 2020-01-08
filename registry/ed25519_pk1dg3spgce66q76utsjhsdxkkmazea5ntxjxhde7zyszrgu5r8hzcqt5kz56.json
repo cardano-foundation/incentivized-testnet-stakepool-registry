@@ -1,8 +1,8 @@
 {
-'owner': 'ed25519_pk1dg3spgce66q76utsjhsdxkkmazea5ntxjxhde7zyszrgu5r8hzcqt5kz56',
-'name': 'Kaer Morhen',
-'ticker': 'KAER',
-'description': 'A Stakepool for the Witchers of Cardano!' 
-'homepage': 'https://example.org',
-'pledge_address': 'addr1s44zxq9rr8tgrmt3wz27p566m05t8kjdv6g6ah8cgjqgdrjsv7utqxnvs8p'
+"owner": "ed25519_pk1dg3spgce66q76utsjhsdxkkmazea5ntxjxhde7zyszrgu5r8hzcqt5kz56",
+"name": "Kaer Morhen",
+"ticker": "KAER",
+"description": "A Stakepool for the Witchers of Cardano!" 
+"homepage": "https://example.org",
+"pledge_address": "addr1s44zxq9rr8tgrmt3wz27p566m05t8kjdv6g6ah8cgjqgdrjsv7utqxnvs8p"
 }
