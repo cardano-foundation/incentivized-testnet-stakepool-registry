@@ -1,8 +1,8 @@
 {
-'owner': 'ed25519_pk1w3fdzx5lzhagn9uvgwnnmv6vle5l78z8ddmwfgj5rqxjapvl977qsxzw9s',
-'name': 'Rei Toei pool',
-'ticker': 'IDORU',
-'homepage': 'https://reitoeipool.xyz',
-'pledge_address': 'addr1s46995g6nu2l4zvh33p6w0dnfnlxnlcuga4hde9z2svq6t59nuhmcxuywrq'
+ "owner": "ed25519_pk1w3fdzx5lzhagn9uvgwnnmv6vle5l78z8ddmwfgj5rqxjapvl977qsxzw9s",
+ "name": "Rei Toei pool",
+ "ticker": "IDORU",
+ "homepage": "https://reitoeipool.xyz",
+ "pledge_address": "addr1s46995g6nu2l4zvh33p6w0dnfnlxnlcuga4hde9z2svq6t59nuhmcxuywrq"
 }
                            
