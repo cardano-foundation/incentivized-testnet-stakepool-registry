@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk19htfdp0cd56uqf4tu92flm5zl77n8vgy3303jpg85qhnkzd86a6qsjn42f",
+  "name": "StakeOverflow",
+  "description": "Your Cardano stake pool hosted in Switzerland. Run by industry professionals and Cardano enthusiasts.",
+  "ticker": "SWISS",
+  "homepage": "https://www.stakeoverflow.ch",
+  "pledge_address": "addr1s5kad959lpkntspx40s4f8lwstlm6va3qjx97xg9q7sz7wcf5lthgk7t9jg"
+}
