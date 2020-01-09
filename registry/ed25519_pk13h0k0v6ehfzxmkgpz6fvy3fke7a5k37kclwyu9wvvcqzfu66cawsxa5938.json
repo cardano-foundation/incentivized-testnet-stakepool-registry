@@ -3,7 +3,7 @@
     "name": "Microstakepool",
     "description": "Come and stake with MICRO!, delegate and support the network!.",
     "ticker": "MICRO",
-    "homepage": "http://microstakepool.com",
+    "homepage": "https://microstakepool.com",
     "pledge_address": "addr1skxa7eantxaygmweqytf9sj9xm8mkj686mracns4e3nqqf8nttr46ah5k52"
 }
 
