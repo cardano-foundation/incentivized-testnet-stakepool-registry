@@ -1,8 +1,8 @@
 {
-'owner': 'ed25519_pk18e8czvkr3d6ywt68rjpkvtrq74svk2x0443zd9ygz7tkq5sem5ts7h3t9y',
-'name': 'Cube ADA Pool',
-'ticker': 'CUBE',
-'homepage': 'https://twitter.com/CubeAda',
-'description': 'Do it with passion or not at all.',
-'pledge_address': 'addr1s5lylqfjcw9hg3e0guwgxe3vvr6kpjege7kkyf553qtewczjr8w3wed6p0s'
+"owner": "ed25519_pk18e8czvkr3d6ywt68rjpkvtrq74svk2x0443zd9ygz7tkq5sem5ts7h3t9y",
+"name": "Cube ADA Pool",
+"ticker": "CUBE",
+"homepage": "https://twitter.com/CubeAda",
+"description": "Do it with passion or not at all.",
+"pledge_address": "addr1s5lylqfjcw9hg3e0guwgxe3vvr6kpjege7kkyf553qtewczjr8w3wed6p0s"
 }
