@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1vazeyl77gwnk0krhz7chl9kk7xxdm44m9dydm6u0ffjedd8jwdps4xn76w",
+    "name": "Deadpool's Stake Pool",
+    "description": "Just a super hero running a stake pool.",
+    "ticker": "DDPL",
+    "homepage": "https://deadpoolstakepool.com",
+    "pledge_address": "addr1s4n5tynlmep6we7cwutmzluk6mccehwkhv453h0t3a9xt9457fe5xnyluzj"
+}
