@@ -1,6 +1,7 @@
 {"owner": "ed25519_pk1489f9shkn38vke5f6753v8qhtfslwauj0h0nz4wvgn9sec0erhwqhm43ue",
 "name": "King Stake 21",
-"ticker": "KAKE21",
+"ticker": "KAKE1",
+"description":"Patience is not simply the ability to wait - it's how we behave while we're waiting."
 "homepage":"",
 "pledge_address": "addr1sk5u4ykz76wyajmx38t6j9suzadxramhjf7a7v24e3zvkr8plywaczams3a"
 }
