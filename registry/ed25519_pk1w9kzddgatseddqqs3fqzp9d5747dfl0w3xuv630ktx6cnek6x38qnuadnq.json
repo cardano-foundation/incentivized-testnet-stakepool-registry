@@ -1,7 +1,7 @@
 {
   "owner": "ed25519_pk1w9kzddgatseddqqs3fqzp9d5747dfl0w3xuv630ktx6cnek6x38qnuadnq",
   "name": "Rewards Notification Bot Stakepool",
-  "ticker": "RENO",
+  "ticker": "BOT",
   "homepage": "https://t.me/CardanoRewardsNotificationBot",
   "pledge_address": "addr1s4ckcf44r4wr945qzz9yqgy4kn6he48aa6ym3n297evmtz0xmg6yu7huz9v"
 }
