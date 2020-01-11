@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk14y7c5tyjrs5p8ewq994gtdwz3d95jrqxktmxp0aqkmt45pqn40aspk9n2d",
-  "name": "Adage.app",
-  "description": "Worry-free staking on 4core bare metal server with 8GB RAM (not cloud)", 
-  "ticker": "ADAGE",
-  "homepage": "https://adage.app",
-  "pledge_address": "addr1sk5nmz3vjgwzsyl9cq5k4pd4c295kjgvq6e0vc9l5zmdwksyzw4lkqr6n23"
-}

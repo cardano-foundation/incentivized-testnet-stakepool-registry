@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1vstsygh4eg6s4wcv8vpspaqf3pszz8nksxt6kmq5c7x787z9paxskmepxc",
-  "name": "Lovelacestaking",
-  "description": "LovelaceStaking - A Cardano(ADA) staking pool. https://lovelacestaking.com",
-  "ticker": "LSTAK",
-  "homepage": "https://lovelacestaking.com/",
-  "pledge_address": "addr1s4jpwq3z7h9r2z4mpsasxq85pxyxqgg7w6qe02mvznrcmclcg5856zas4s3"
-}

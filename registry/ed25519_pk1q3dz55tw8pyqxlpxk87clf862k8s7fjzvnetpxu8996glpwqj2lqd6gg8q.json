@@ -1,8 +1,0 @@
-{
-    "owner": "ed25519_pk1q3dz55tw8pyqxlpxk87clf862k8s7fjzvnetpxu8996glpwqj2lqd6gg8q",
-    "name": "🤫Anonymous #1",
-    "ticker": "ANON1",
-    "homepage": "https://httpbin.org/anything?anonymous_block_producers=good&more_to_say=",
-    "pledge_address": "addr1s5z952j3dcuysqmuy6clmraylf2c7rexgfj09vymsu5hfru9czftup6hz3q",
-    "description": "Anonymous block producers make the Cardano network harder to attack. If a pool owner's identity is known they are vulnerable to social attacks and coercion. We remain anonymous while also ensuring we never miss a block!"
-}

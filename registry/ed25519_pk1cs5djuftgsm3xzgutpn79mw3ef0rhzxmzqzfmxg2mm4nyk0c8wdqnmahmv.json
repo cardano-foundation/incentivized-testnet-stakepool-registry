@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1cs5djuftgsm3xzgutpn79mw3ef0rhzxmzqzfmxg2mm4nyk0c8wdqnmahmv",
-  "name": "Value Stake Pool",
-  "description": "Community Supporter | We support the Cardano ecosystem. We donate a percentage of our rewards as grants to great Cardano projects",
-    "ticker": "VALUE",
-  "homepage": "https://www.ValuePool.eu",
-  "pledge_address": "addr1shzz3kt39dzrwycfr3vx0chd6899uwugmvgqf8vept0wkvjelqae5hmdww8"
-}

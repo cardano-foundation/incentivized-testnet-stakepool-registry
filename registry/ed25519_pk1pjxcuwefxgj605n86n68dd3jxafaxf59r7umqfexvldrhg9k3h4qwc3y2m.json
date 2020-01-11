@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1pjxcuwefxgj605n86n68dd3jxafaxf59r7umqfexvldrhg9k3h4qwc3y2m",
-  "name": "CryptoLATAM",
-  "ticker": "LATAM",
-  "description": "A Cardano stake pool based in Mexico",
-  "homepage": "https://carloslodelar.wixsite.com/ccstakepool",
-  "pledge_address": "addr1s5xgmr3m9yeztf7jvl20ga4kxgm485exs50mnvp8yena5waqk6x75pmvvzv"
-}

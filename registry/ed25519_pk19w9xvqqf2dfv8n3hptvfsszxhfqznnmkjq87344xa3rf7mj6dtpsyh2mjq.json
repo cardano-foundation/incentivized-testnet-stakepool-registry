@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk19w9xvqqf2dfv8n3hptvfsszxhfqznnmkjq87344xa3rf7mj6dtpsyh2mjq",
-  "ticker": "MEL",
-  "name": "Ada-Pool.com",
-  "description": "Cardano staking pool",
-  "homepage": "https://ada-pool.com",
-  "pledge_address": "addr1s54c5esqp9f49s7wxu9d3xzqg6ayq2w0w6gql6xk5mkyd8mwtf4vxpsf9aq"
-}

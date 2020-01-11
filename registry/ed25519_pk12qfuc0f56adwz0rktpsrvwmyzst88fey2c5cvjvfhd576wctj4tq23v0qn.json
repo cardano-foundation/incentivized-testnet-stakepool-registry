@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk12qfuc0f56adwz0rktpsrvwmyzst88fey2c5cvjvfhd576wctj4tq23v0qn",
-  "name": "Cardano Proxy",
-  "description": "CardanoProxy.com is a fully distributed, highly available stake-pool for Cardano",
-  "ticker": "CPX",
-  "homepage": "https://cardanoproxy.com",
-  "pledge_address": "addr1s4jjykjwq7jefg3a3z2qy7hhar6xlalzcz0x3rw2q2zhanmaljykkgfav54"
-}

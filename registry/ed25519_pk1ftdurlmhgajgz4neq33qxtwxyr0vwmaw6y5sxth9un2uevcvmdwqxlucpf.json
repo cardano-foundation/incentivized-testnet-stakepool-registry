@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1ftdurlmhgajgz4neq33qxtwxyr0vwmaw6y5sxth9un2uevcvmdwqxlucpf",
-  "name": "Lion's Stakehouse 4%",
-  "ticker": "LION4",
-  "description": "Step down from 5% to 4%. Will drop again if this pool fills up",
-  "homepage": "https://www.lionsstakehouse.com",
-  "pledge_address": "addr1s49dhs0lwarkfq2k0yzxyqedccsda3m04mgjjqewuhjdtn9npnd4cq0vtkf"
-}

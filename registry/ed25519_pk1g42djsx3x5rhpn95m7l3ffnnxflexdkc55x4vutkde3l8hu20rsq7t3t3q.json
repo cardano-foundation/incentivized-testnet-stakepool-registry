@@ -1,8 +1,0 @@
-{
- "owner": "ed25519_pk1g42djsx3x5rhpn95m7l3ffnnxflexdkc55x4vutkde3l8hu20rsq7t3t3q",
-  "name": "BANK - The staking pool you can trust.",
-  "description": "Dedicated, high availability staking pool, operated by a veteran developer",
-  "ticker": "BANK",
-  "homepage": "https://bankstakeppool.com",
-  "pledge_address": "addr1s4z4fk2q6y6swuxvkn0m799xwve8lyekmzjs64n3wehx8u7l3fuwqanv2n8"
-}

@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1kht9yukj5c2wxn3ymyp38m7pqjvfr9dcptj872ak0tnuphj8qk9srw2xfh",
-  "name": "Ada-Staking-Pool-#1",
-  "description": "ADA Staking Pool",
-  "ticker": "ASPA1",
-  "homepage": "https://ada-staking-pool.com",
-  "pledge_address": "addr1sk6av5nj62npfc6wynvsxyl0cyzf3yv4hq9wgletkeaw0sx7guzck3du302"
-}

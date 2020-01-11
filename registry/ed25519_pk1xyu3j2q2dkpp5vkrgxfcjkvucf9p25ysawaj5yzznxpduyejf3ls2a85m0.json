@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1xyu3j2q2dkpp5vkrgxfcjkvucf9p25ysawaj5yzznxpduyejf3ls2a85m0",
-  "name": "Friendly Neighborhood Staking Pool",
-  "description": "Just another service provided by your friendly neighborhood Staking-Pool!",
-  "ticker": "FNSP",
-  "homepage": "https://github.com/mriefer",
-  "pledge_address": "addr1s5cnjxfgpfkcyx3jcdqe8z2ennpy592sjr4mk2ssg2vc9hsnxfx87cwqg2x"
-}

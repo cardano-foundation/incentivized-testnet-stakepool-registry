@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1uep2klkfn9a3kmpvxas5nrxdtvnydaghmu5plqxx5y9h855qr5tsej86ex",
-  "name": "Masterstake",
-  "description": "The low-fee stake pool operated by Chris Graffagnino",
-  "ticker": "MASTR",
-  "homepage": "https://masterstake.com",
-  "pledge_address": "addr1shny92m7exvhkxmv9smkzjvve4djv3h4zl0js8uqc6ssku7jsqw3wwcfcg8"
-}

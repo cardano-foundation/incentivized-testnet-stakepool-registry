@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1mdjjrzqsrkwg7uz4ulew7hkqau0n7zzd24fulykwjtr9h457xrfsgqflg9",
-  "name": "Stake For Good",
-  "description": "A Cardano stake pool for charity where you decide how the rewards are distributed.",
-  "ticker": "GOOD",
-  "homepage": "https://stakeforgood.org",
-  "pledge_address": "addr1shdk2gvgzqweerms2hnl9m67crh370cgf4248nuje6fvvk7knccdxfjkulh"
-}

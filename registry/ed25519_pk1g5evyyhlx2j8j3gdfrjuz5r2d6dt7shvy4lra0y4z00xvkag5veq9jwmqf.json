@@ -1,8 +1,0 @@
-{
-    "owner" : "ed25519_pk1g5evyyhlx2j8j3gdfrjuz5r2d6dt7shvy4lra0y4z00xvkag5veq9jwmqf",
-    "name" : "StakeYourAda",
-    "description" : "StakeYourAda stake pool, creator of Kongo stake pool monitoring tool.  Working with the pool operator community to ensure the success of ADA!",
-    "ticker" : "KONGO",
-    "homepage" : "https://stakeyourada.com",
-    "pledge_address" : "addr1s4zn9ssjlue2g729p4ywts2sdfhf406zasjhu04uj5fauejm4z3nyg36ddh"
-}

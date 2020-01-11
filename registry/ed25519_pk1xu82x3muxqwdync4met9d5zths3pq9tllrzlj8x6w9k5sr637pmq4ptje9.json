@@ -1,8 +1,0 @@
-{
-    "owner": "ed25519_pk1xu82x3muxqwdync4met9d5zths3pq9tllrzlj8x6w9k5sr637pmq4ptje9",
-    "name": "QORD STAKE POOL",
-    "description": "QORD CARDANO STAKE POOL",
-    "ticker": "QORD",
-    "homepage": "https://ada.qord.app",
-    "pledge_address": "addr1s5msag680scpe5j0zh09v4ksfw7zyyq40luvt7gumfck6jq028c8v3sr443"
-}

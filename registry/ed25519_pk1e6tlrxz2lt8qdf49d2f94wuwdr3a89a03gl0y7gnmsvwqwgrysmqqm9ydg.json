@@ -1,9 +1,0 @@
-
-{
-  "owner": "ed25519_pk1e6tlrxz2lt8qdf49d2f94wuwdr3a89a03gl0y7gnmsvwqwgrysmqqm9ydg",
-  "name": "Yoda stake pool",
-  "description": "May the stake be with you",
-  "ticker": "YODA",
-  "homepage": "https://www.yodastaking.com",
-  "pledge_address": "addr1sh8f0uvcftavup4x544fyk4m3e5w85uh479raunez0wp3cpeqvjrv6k8p2v"
-}
