@@ -1,8 +1,8 @@
 {
     "owner": "ed25519_pk1pp22rdvxqvy8h7afc3lfg4twtxkuxhl5gwwkwmvawxpgqj5ze2fqc9zypk",
-    "name": "Spicy Stake Pool",
-    "ticker": "SPICY",
-    "homepage": "https://spicystakepool.com",
+    "name": "Spark ADA Pool",
+    "ticker": "SPARK",
+    "homepage": "https://sparkadapool.eu",
     "pledge_address": "addr1snhyugghgvwunyck3x8vggwly7skk8xhd3vvkaeemgn97t3l4xe3zzz55x6cvqcg00a6n3r7j32kukddcd0lgsuavake6uvzsp9g9j5jdl5ndd",
     "description": "Nothing is impossible.."
 }
