@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1xudw9jvkxuh58ly5pe92yg0zvc3xs5kcsws3vcpe9ay740hmnl6sx2zfrv",
+  "name": "1 Percent Pool - #S",
+  "description": "The 1 Percent Pool is dedicated to run stake pools with only 1% fee - ALWAYS!",
+  "ticker": "1PCTS",
+  "homepage": "https://www.1PercentPool.eu",
+  "pledge_address": "addr1s5m34ckfjcmj7slujs8y4g3pufnzy6zjmzp6z9nq8yh5n647lw0l2emjrl5"
+}
