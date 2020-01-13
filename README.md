@@ -1,7 +1,7 @@
-# Incentivized Testnet Stake Pool Registry
+# Incentivized Testnet Stake Pool Meta Data Registry
 
 ##  Background
-This repository provides a means to register public stake pools for the Incentivized Testnet. Successful registrations will result in the listing of a stake pool as a delegation option in all of the supported testnet wallets (Daedalus & Yoroi).
+This repository provides a means to register public stake pool meta data for the Incentivized Testnet. Successful registrations will result in the listing of a stake pool as a delegation option in all of the supported testnet wallets (Daedalus & Yoroi).
 
 Adding your stake pool to this registry is only one of several steps required to get your stake pool up and running. Please refer to the [testnet site](https://testnet.iohkdev.io/en/cardano/shelley/about/testnet-introduction/) for a description of the entire process.
 
@@ -120,65 +120,6 @@ Precise entry validity rules are described in the following section.
    }
    ```
 
-## Step-by-Step Example (Linux / Mac OS)
+## Step-by-Step Guides
 
-> :information_source: Notice
->
-> In this example, we'll be using a command-line tool called `jcli`. Installations instructions are available on the official Jörmungandr repository: https://github.com/input-output-hk/jormungandr.
-
-1. Clone and fork the repository
-
-```
-$ git clone git@github.com:cardano-foundation/incentivized-testnet-stakepool-registry
-$ cd incentivized-testnet-stakepool-registry
-$ git remote add submission git@github.com:<your-github-username>/incentivized-testnet-stakepool-registry
-```
-
-2. Create a public/private key pair (`owner.prv` & `owner.pub`)
-
-```
-$ jcli key generate --type ed25519 | tee owner.prv | jcli key to-public > owner.pub
-$ cat owner.{prv,pub}
-ed25519_sk1----------------------------------------------------------
-ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx
-```
-
-3. Create a minimal JSON file (`ed25519_pk1qpp...ru55mx.json`)
-```json
-{
-  "owner": "ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx",
-  "name": "My Stake Pool",
-  "ticker": "ADA1",
-  "homepage": "https://cardanofoundation.org",
-  "pledge_address": "addr1s0nyt67uwcg7dahrxug698h5xfasnyd5qhnsd0h0peqlqvtfqf48ymz680l"
-}
-```
-
-> :bulb: You can check that your JSON is valid by using the JSON-schema above and your metadata file in a tool like https://www.jsonschemavalidator.net/
-
-> :question: The `pledge_address` can be any valid address you own. However, we recommend using the _account address_ corresponding to your Daedalus or Yoroi assigned reward account. This account may also be used to fund your registration certificate for your stake pool.
-
-4. Sign it using your owner private key (`ed25519_pk1qpp...ru55mx.sig`)
-
-```
-$ jcli key sign \
-    --secret-key owner.prv \
-    --output ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx.sig \
-    ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx.json
-```
-
-5. Create a commit for the submission
-
-```
-$ git add ed25519_pk1qppzz38el9zxtgaw0ttmf6d6zytllfu3fnwcl5tlc3pp044artxqru55mx.{json,sig}
-$ git commit -m "ADA1"
-$ git push submission HEAD
-```
-
-6. Make a pull request :tada:!
-
-> :warning: At this point in time, we are opening a pre-registration process for new stake pools. 
-> 
-> So if you register your stake pool now, your pull request will remain open until the point at which the complete network functionality is available, when it will be merged and officially registered. 
-> 
-> Once your stake pool is fully registered it will appear as a delegation option in the supported testnet wallets.
+See [Wiki](https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry/wiki).
