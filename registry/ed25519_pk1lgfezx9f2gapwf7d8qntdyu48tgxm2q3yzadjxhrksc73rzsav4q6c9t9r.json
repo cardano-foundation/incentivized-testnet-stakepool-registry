@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1lgfezx9f2gapwf7d8qntdyu48tgxm2q3yzadjxhrksc73rzsav4q6c9t9r",
+  "name": "evilpool",
+  "ticker": "EVIL",
+  "description": "Let's bring Cardano forward. More info on the website (once it's created ;).",
+  "homepage": "https://evilpool.com/",
+  "pledge_address": "addr1shap8ygc49fr59e8e5uzdd5nj5adqmdgzyst4kg6uw6rr6yv2r4j5ac9a2u"
+}

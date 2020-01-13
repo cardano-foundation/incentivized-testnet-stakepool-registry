@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1x36mdnaflyl9xs7cy5fp3mgrgcqff0xqy7sh9u4vhc3dgencgr8s62ecfs",
+  "name": "DSNC",
+  "description": "DSNC is a Cardano Staking Pool based on AWS Cloud Server with 100% productivity and Uptime",
+  "ticker": "DSNC",
+  "homepage": "https://dsnc.co.uk/",
+  "pledge_address": "addr1s568tdk048unu56rmqj3yx8dqdrqp99ucqn6zuhj4jlz94rx0pqv7fft34e"
+}
