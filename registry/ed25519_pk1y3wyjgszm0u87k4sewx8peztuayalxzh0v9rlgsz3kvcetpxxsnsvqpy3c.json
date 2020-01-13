@@ -1,7 +1,7 @@
 {
-'owner': 'ed25519_pk1y3wyjgszm0u87k4sewx8peztuayalxzh0v9rlgsz3kvcetpxxsnsvqpy3c',
-'name': 'DApp360 Inc.',
-'ticker': 'D3601',
-'homepage': 'https://dapp360.co/ada-stake-pool/',
-'pledge_address': 'addr1s5j9cjfzqtdlsl66kr9ccu8yf0n5nhuc2aas50azq2xenr9vyc6zwyvfw4j'
+  "owner": "ed25519_pk1y3wyjgszm0u87k4sewx8peztuayalxzh0v9rlgsz3kvcetpxxsnsvqpy3c",
+  "name": "DApp360 Inc.",
+  "ticker": "D3601",
+  "homepage": "https://dapp360.co/ada-stake-pool/",
+  "pledge_address": "addr1s5j9cjfzqtdlsl66kr9ccu8yf0n5nhuc2aas50azq2xenr9vyc6zwyvfw4j"
 }
