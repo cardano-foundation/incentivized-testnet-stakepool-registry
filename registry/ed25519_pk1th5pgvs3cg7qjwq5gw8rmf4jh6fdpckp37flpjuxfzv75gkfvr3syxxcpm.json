@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1th5pgvs3cg7qjwq5gw8rmf4jh6fdpckp37flpjuxfzv75gkfvr3syxxcpm",
+  "name": "ARCH Staking Pool",
+  "description": "Archimedes Staking Pool for ADA Cardano",
+  "ticker": "ARCH1",
+  "homepage": "https://www.archpool.io",
+  "pledge_address": "addr1s4w7s9pjz8prczfcz3pcu0dxk2lf958zcx8e8uxtseyfn63ze9swxug37z7"
+}
