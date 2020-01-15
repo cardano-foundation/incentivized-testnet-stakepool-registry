@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1wce47t84nn0qh4j3uayp9h2nwu7ulgm63zw749zfg44f3f8gnm6qmdum0d",
   "name": "OneStake Pool",
-  "description": "OneStake Pool - low fees, 100% uptime, masternode specialist",
+  "description": "OneStake Pool - low fees, professional masternode specialist",
   "ticker": "1STKE",
-  "homepage": "https://www.vixz.xyz",
+  "homepage": "https://one.stke.club",
   "pledge_address": "addr1s4mrxhev7kwduz7k28n5syka2dmnmnar02yfm655f9zk4x9yaz00gu6rfdm"
 }

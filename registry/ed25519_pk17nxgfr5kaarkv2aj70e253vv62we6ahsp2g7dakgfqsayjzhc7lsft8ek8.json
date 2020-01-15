@@ -1,7 +1,8 @@
 {
-"owner": "ed25519_pk17nxgfr5kaarkv2aj70e253vv62we6ahsp2g7dakgfqsayjzhc7lsft8ek8",
-"name": "Pudim Chocolate",
-"ticker": "PUDIM",
-"homepage": "https://pudim.od.gy",
-"pledge_address": "addr1sh6vepywjmh5we3tktel92j93nffm8tk7q9frehkepyzr5jg2lrm7gjt4q7"
+  "owner": "ed25519_pk17nxgfr5kaarkv2aj70e253vv62we6ahsp2g7dakgfqsayjzhc7lsft8ek8",
+  "name": "Pudim a gatinha com fome",
+  "description": "All your stake are belong with PUDIM!",
+  "ticker": "PUDIM",
+  "homepage": "https://pudim.od.gy",
+  "pledge_address": "addr1sh6vepywjmh5we3tktel92j93nffm8tk7q9frehkepyzr5jg2lrm7gjt4q7"
 }
