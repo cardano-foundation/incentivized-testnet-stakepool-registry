@@ -1,8 +1,8 @@
 {
 "owner": "ed25519_pk1reaqwh2ayvu20adzt8ej4u9ew5x7u7s6y9ph99j40thr03q47v4swt4h97",
 "name": "kakutora.net stakepool",
-"description": "日本人が運営する低コスト・高稼働サーバーです。ステーキングに関する質問や相談はホームページの連絡先からお気軽にどうぞ！ A low-cost, high-performance server operated by Japanese. If you have any questions or consultation about staking, please feel free to contact us from the contact information on the website!",
-"ticker": "KAKUT",
+"description": "日本人が運営する低コスト・高稼働サーバーです。ステーキングに関する質問や相談はホームページの連絡先からお気軽にどうぞ！",
+"ticker": "KKTRN",
 "homepage": "https://www.kakutora.net/stakepool",
 "pledge_address": "addr1s5085p6at53n3fl45fvlx2hsh96smmn6rgs5xu5k24awud7yzhejk9ytle8"
 }
