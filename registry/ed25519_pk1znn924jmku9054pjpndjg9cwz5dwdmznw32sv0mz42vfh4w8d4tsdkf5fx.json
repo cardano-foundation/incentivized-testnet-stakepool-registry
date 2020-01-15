@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1znn924jmku9054pjpndjg9cwz5dwdmznw32sv0mz42vfh4w8d4tsdkf5fx",
-  "name": "Medusa AdaWallet Pool",
-  "description": "This pool helps us to provide our services and enchase our ecosystem to make your happy!",
-  "ticker": "MEDUS",
-  "homepage": "https://adawallet.io/",
+  "name": "We're mirgating to a new pool, see description",
+  "description": "Hi! We decided to decrease fees. But it means that new pool should be registered. It's already working. It's ticker is MDS, id: 4bd5642e03d26f5ced8426920d711fe32a59b53d651917e841d5ae70ab0c6902, thank you and welcome!",
+  "ticker": "CLSD",
+  "homepage": "https://medusawallet.io/",
   "pledge_address": "addr1s52wv42ktwms47j5xgxdkfqhpc234ehv2d692p3lv24f3x74cak4wv4mnnk"
 }
