@@ -1,8 +1,0 @@
-{
-  "owner": "ed25519_pk1cdldqwzuze32up47wkh4rjwp2s9k9wf2xtjtu7qpxfxxmg8tsyaqyeeutd",
-  "name": "ADASEA Stake Pool",
-  "description": "ADASEA - Cardano South-East Asia (SEA) Stake Pool",
-  "ticker": "VOID6",
-  "homepage": "https://adasea.asia",
-  "pledge_address": "addr1shpha5pctstx9tsxhe6675wfc92qkc4e9gewf0ncqyeycmdqawqn54pkn9p"
-}
