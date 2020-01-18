@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk16hxrqke0egdumhm2g6twm62afwpvsa6n3cmw9509682f80stmqmq5tlefr",
+  "name": "frugalpool1",
+  "ticker": "FRGL1",
+  "description": "Low cost ada pool",
+  "homepage": "https://frugalpool.github.io/",
+  "pledge_address": "addr1sh2ucvzm9l9phnwldfrfdm0ft49c9jrh2w8rdck3uhgafya7p0vrvgg0n5h"
+}
