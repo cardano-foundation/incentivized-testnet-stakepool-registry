@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1ztx8z6pmv87xjvla66s6xkle9kxd3s24qe9w0qfa48zguuzggtgs2r63a9",
+  "name": "Mint Pool",
+  "description": "Always Mint",
+  "ticker": "MINT",
+  "homepage": "https://mintpool.blogspot.com",
+  "pledge_address": "addr1s5fvcutg8dslc6fnlht2rg6mlykcekxp25ry4eup8k5ufrnsfppdzxfvwrz"
+}
