@@ -1,7 +1,7 @@
 {
-'owner': 'ed25519_pk1mfeh9e5f6nx2f5p6p577mm8pyfe4t4h9qwjs2hsu6dt25s87k2xs49ma9j',
-'name': 'Wind Ada Staking',
-'ticker': 'WIND',
-'homepage': 'https://windadastaking-developer-edition.na93.force.com/',
-'pledge_address': 'addr1shd8xuhx382vefxs8gxnmm0vuy38x4wku5p62p27rnf4d2jql6eg6suzcqg'
+"owner": "ed25519_pk1mfeh9e5f6nx2f5p6p577mm8pyfe4t4h9qwjs2hsu6dt25s87k2xs49ma9j",
+"name": "Wind Ada Staking",
+"ticker": "WIND",
+"homepage": "https://windadastaking-developer-edition.na93.force.com/",
+"pledge_address": "addr1shd8xuhx382vefxs8gxnmm0vuy38x4wku5p62p27rnf4d2jql6eg6suzcqg"
 }
