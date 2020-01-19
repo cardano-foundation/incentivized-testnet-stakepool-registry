@@ -1,0 +1,8 @@
+{
+	"owner": "ed25519_pk1nd8c9t9heawwgt44z3ezzuunhtcyx0v40adzmmcn6fxsnacccq6sfvfhu4",
+	"name":	"ClubCardano:StakingPool",
+	"ticker": "PRVCY",
+	"description": "Stake with ClubCardano Grow with the Community",
+	"homepage": "https://clubcardano.com",
+	"pledge_address": "addr1skd5lq4vkl84eepwk528ygtnjwa0qseaj4l45t00z0fy6z0hrrqr22heufg"
+}
