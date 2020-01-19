@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1cg8x5zxwtvlfd49lrr6x4mdqlh46ngkp6erv4yulr3ygeac273sqne3cap",
+  "name": "Stake Pool Central - CENT",
+  "description": "Stable operations. 1% fee",
+  "ticker": "CENT",
+  "homepage": "https://cardano.stakepoolcentral.com",
+  "pledge_address": "addr1shpqu6sgeedna9k5huv0g6hd5r77h2dzc8tydj5nnuwy3r8hpt6xqz45a3t"
+}
