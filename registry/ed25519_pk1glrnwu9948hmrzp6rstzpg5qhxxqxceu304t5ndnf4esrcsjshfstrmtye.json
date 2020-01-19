@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1glrnwu9948hmrzp6rstzpg5qhxxqxceu304t5ndnf4esrcsjshfstrmtye",
+  "name": "Juicy Stake",
+  "description": "A stake pool operated by Chris Graffagnino",
+  "ticker": "JUICY",
+  "homepage": "https://juicystake.com",
+  "pledge_address": "addr1s4ruwdms5k57lvvg8gwpvg9zszuccqmr8j974wjdkdxhxq0zz2zax3yvf6l"
+}
