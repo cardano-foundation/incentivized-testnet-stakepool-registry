@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk173yc4l776u6xcpfuyxkzrk65ls6wcjqfta97v93ttyczx7vngvaqt3uce3",
+  "name": "Avalon",
+  "ticker": "AVLON",
+  "description": "Avalon is the mythical land where King Arthur found the Excalibur, and now it is the stake pool where you can find ADA",
+  "homepage": "https://avalon-pool.com",
+  "pledge_address": "addr1sh6ynzhlmmtngmq98ss6cgwm2n7rfmzgp905hesk9dvnqgmejdpn584xfqq"
+}
