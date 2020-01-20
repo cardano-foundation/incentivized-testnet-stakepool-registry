@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk144er7v09gcxlqdnkp2lg06tzu2wfjdxfz7fx6hefx02x33hwzquq22r3hy",
+  "name": "EconomyPool",
+  "ticker": "ECOP1",
+  "description": "Stake Pool with lowest fees",
+  "homepage": "https://www.economypool.eu/",
+  "pledge_address": "addr1skkhy0e3u4rqmupkwc9taplfvt3fexf5eyteym2l9yeag6xxacgrs862k8d"
+}
