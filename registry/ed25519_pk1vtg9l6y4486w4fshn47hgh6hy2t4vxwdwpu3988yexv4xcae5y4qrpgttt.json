@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1vtg9l6y4486w4fshn47hgh6hy2t4vxwdwpu3988yexv4xcae5y4qrpgttt",
+    "name": "EITOWA",
+    "ticker": "ETW",
+    "description": "ETW's Staking pools",
+    "homepage": "https://example.org",
+    "pledge_address": "addr1s43dqhlgjk5lf64xz7wh6azl2u3fw4see4c8jy5uunyej5mrhxsj59y57kv"
+}
