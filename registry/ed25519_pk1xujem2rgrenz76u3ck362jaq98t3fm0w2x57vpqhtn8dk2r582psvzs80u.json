@@ -1,7 +1,7 @@
 {
-'owner': 'ed25519_pk1xujem2rgrenz76u3ck362jaq98t3fm0w2x57vpqhtn8dk2r582psvzs80u',
-'name': 'YieldWallet.io Stake Pool',
-'ticker': 'YWALL',
-'homepage': 'https://www.yieldwallet.io',
-'pledge_address': 'addr1s5mjt8dgdq0xvtmtj8z68f2t5q5aw98daeg6nesyzawvakegwsagxt30f5l'
+"owner": "ed25519_pk1xujem2rgrenz76u3ck362jaq98t3fm0w2x57vpqhtn8dk2r582psvzs80u",
+"name": "YieldWallet.io Stake Pool",
+"ticker": "YWALL",
+"homepage": "https://www.yieldwallet.io",
+"pledge_address": "addr1s5mjt8dgdq0xvtmtj8z68f2t5q5aw98daeg6nesyzawvakegwsagxt30f5l"
 }
