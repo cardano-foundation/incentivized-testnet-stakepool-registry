@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk10fnjr5x4e7u5k77vpgx0kf4ytwsqaz576h0c6qtujxcw3y28u68se5aeq8",
+  "name": "RANCH",
+  "description": "Delegate your stake to the RANCH pool. We are a team of sysops administrators and we are monitoring our servers 24/7 in order to provide the best uptime and performance.",
+  "ticker": "RANCH",
+  "homepage": "https://cowboypool.io",
+  "pledge_address": "addr1s4axwgws6h8mjjmmes9qe7ex53d6qr52nm2alrgp0jgmp6y3glng773a9pu"
+}
