@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1davcs5tu4dl8kecg0nejqqakh33s8dwz3550y4lhrfyalte8hr8s8dm2g5",
+  "name": "SEGV Stakepool",
+  "ticker": "SEGV",
+  "description": "A secure and reliable stake pool. Built on Amazon infrastructure to provide 24/7 reliability and performance at a low rate with zero fixed fees",
+  "homepage": "https://segvstakepool.io",
+  "pledge_address": "addr1s4h4nzz30j4hu7m8pp70xgqrk67xxqa4c2xj3ujh7udynha0y7uv7pvfpcu"
+}
