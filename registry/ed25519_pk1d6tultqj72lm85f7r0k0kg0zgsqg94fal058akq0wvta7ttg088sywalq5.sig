@@ -1,7 +1,1 @@
-{
-"owner": "ed25519_pk1d6tultqj72lm85f7r0k0kg0zgsqg94fal058akq0wvta7ttg088sywalq5",
-"name": "kiss4ada",
-"ticker": "2KISS",
-"homepage": "https://www.kiss4ada.com",
-"pledge_address": "addr1s4hf0navztetlv738cd7e7epufzqpqk48ha7slkcpae30heddpuu70c4fkq"
-}
+ed25519_sig122rz58gar6nulkl89hu22wnl9fs9x44z4xsagv5lssy8y8sjh4qx7r7ec4xzyf0eqq02xxa0mlts3g0jz5zrsntp8g0yc2qty36fuzqexs2s5
