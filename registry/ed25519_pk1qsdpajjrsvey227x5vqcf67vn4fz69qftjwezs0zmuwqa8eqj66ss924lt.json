@@ -1,0 +1,8 @@
+{
+"owner": "ed25519_pk1qsdpajjrsvey227x5vqcf67vn4fz69qftjwezs0zmuwqa8eqj66ss924lt",
+"name": "solutioncenter",
+"ticker": "SOLUT",
+"description": "German stake pool - powered by Contabo VPS",
+"homepage": "https://www.solutioncenter.de",
+"pledge_address": "addr1s5zp58k2gwpny3ftc63srp8tejw4ytg5p9wfmy2put03cr5lyztt2pt98jh"
+}
