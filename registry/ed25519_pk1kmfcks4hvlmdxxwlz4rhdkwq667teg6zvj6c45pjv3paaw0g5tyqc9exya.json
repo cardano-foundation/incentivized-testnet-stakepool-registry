@@ -1,6 +1,7 @@
 {
   "owner": "ed25519_pk1kmfcks4hvlmdxxwlz4rhdkwq667teg6zvj6c45pjv3paaw0g5tyqc9exya",
   "name": "Reliable Staking",
+  "description": "RELY pool is operating close to saturation. Delegate to RELY1 instead! It has identical specs to RELY. Rely on Reliable Staking to grow your ADA! 0 fixed fees. 3.5% operator reward.",
   "ticker": "RELY",
   "homepage": "https://www.reliablestaking.com",
   "pledge_address": "addr1skmd8z6zkanld5cemu25wakecrtte09rgfjttzksxfjy8h4eaz3vs9e3hml"
