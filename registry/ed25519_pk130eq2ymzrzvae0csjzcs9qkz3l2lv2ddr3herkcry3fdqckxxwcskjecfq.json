@@ -1,0 +1,8 @@
+{
+        "owner": "ed25519_pk130eq2ymzrzvae0csjzcs9qkz3l2lv2ddr3herkcry3fdqckxxwcskjecfq",
+        "name": "Youblob",
+        "ticker":"BLOB",
+        "description": "Youblob, your Online Makerspace! We have set up a stakepool to better align future solutions for our Makers.",
+        "homepage": "https://www.youblob.com/stakepool",
+        "pledge_address": "addr1sk9lypgnvgvfnh9lzzgtzq5zc28ata3f45wxlywmqvj995rzccemzelgqux"
+}
