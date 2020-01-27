@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk16yra80z74jgnk7ad3vfpaddy3muvsmgwcl2vxjua0mdpsgtnqnyqwv04rq",
+  "name": "StakeADAcoins",
+  "description": "Reliable staking service - hosted in a major U.S. data center",
+  "ticker": "SADA",
+  "homepage": "https://stakeADAcoins.io",
+  "pledge_address": "addr1shgs05aut6kfzwmm4k93y8445j803jrdpmrafs6tn4ld5xppwvzvs3jujax"
+}
