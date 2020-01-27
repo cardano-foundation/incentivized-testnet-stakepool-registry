@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1ucrzp9xt2tlkc79semgr9fjsvfyr7yl4pfxksxjykzwexwc036hq3dqqh9",
+  "name": "ADAdarkpool1",
+  "description": "ADAdarkpool #1:  AWS beast node (c5d.large)",
+  "ticker": "ADPL1",
+  "homepage": "https://adadarkpool.com",
+  "pledge_address": "addr1shnqvgy5edf07mrckr8dqv4x2p3ys0cn759y66q6gjcfmyemp782uttulxh"
+}
