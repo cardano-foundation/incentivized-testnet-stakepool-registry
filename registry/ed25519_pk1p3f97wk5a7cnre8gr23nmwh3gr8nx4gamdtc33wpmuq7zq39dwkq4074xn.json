@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1p3f97wk5a7cnre8gr23nmwh3gr8nx4gamdtc33wpmuq7zq39dwkq4074xn",
+    "name": "Ikinari Stake Pool",
+    "ticker": "ISP",
+    "description": "A stake pool that seeks the highest profitability",
+    "homepage": "https://ikinaristakepool.amebaownd.com/",
+    "pledge_address": "addr1s5x9yhe66nhmzv0yaqd2x0d679qv7v64rhd40zx9c80srcgzy446cwd3nvj"
+}
