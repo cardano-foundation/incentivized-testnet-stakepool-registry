@@ -1,6 +1,7 @@
 {
   "owner": "ed25519_pk1h5g7wnh0dgpvv6yusk004lzpd8rdwfq4a8cwrr5kyquzfjhrc00qe70w4m",
   "name": "Tilia I/O Staking Pool",
+  "description": "Of the people, by the people, for the people. Promoting and helping to expand Cardano ecosystem through received rewards."
   "ticker": "TILIA",
   "homepage": "https://tiliaio.com",
   "pledge_address": "addr1sk73re6waa4q93ngnjzea7hug95ud4eyzh5lpcvwjcsrsfx2u0paukcyftm"
