@@ -1,8 +1,0 @@
-{
-    "owner": "ed25519_pk1a2grvppf7wknhlsaf4h8ge0ufhny0f9kttt2wnzgfyeuupyz048qxzsmlq",
-    "name": "M Pool 2",
-    "ticker": "M02",
-    "homepage": "https://m-nodes.github.io",
-    "pledge_address": "addr1sh4fqdsy98e66wl7r4xkuar9l3x7v3aykedddf6vfpyn8nsysf75u47kk7r",
-    "description": "Our mission is to support the Cardano network by focusing on security, availability, automation, optimization and 24/7 monitoring"
-}
