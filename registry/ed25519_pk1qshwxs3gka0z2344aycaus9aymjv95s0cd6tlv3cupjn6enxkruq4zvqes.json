@@ -4,5 +4,5 @@
     'ticker': 'CSSK33',
     'description': 'Relax and delegate',
     'homepage': 'https://cardanosstakers.com',
-    'plege_address': 'addr1s5zzac6z9zm4uf2xkh5nrhjqh5nwfskjplphf0aj8rsx20txv6c0smahke8'
+    'pledge_address': 'addr1s5zzac6z9zm4uf2xkh5nrhjqh5nwfskjplphf0aj8rsx20txv6c0smahke8'
 }
