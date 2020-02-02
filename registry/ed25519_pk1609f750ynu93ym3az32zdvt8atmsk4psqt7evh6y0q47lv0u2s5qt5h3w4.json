@@ -1,7 +1,8 @@
 {
-'owner': 'ed25519_pk1609f750ynu93ym3az32zdvt8atmsk4psqt7evh6y0q47lv0u2s5qt5h3w4',
-'name': 'SKHN Pool',
-'ticker': 'SKHN',
-'homepage': 'https://twitter.com/SKHN_ADA_POOL',
-'pledge_address': 'addr1shfu4863uj0skynw8529gf43vl40wz65xqp0m9jlg3uzhma3l32zs4kkrc7'
+  "owner": "ed25519_pk1609f750ynu93ym3az32zdvt8atmsk4psqt7evh6y0q47lv0u2s5qt5h3w4",
+  "name": "SKHN Pool",
+  "ticker": "SKHN",
+  "description": "SKHN is high available and reliable Cardano Staking Pool.If you have any questions, feel free to contact me in English or Japanese by twitter",
+  "homepage": "https://twitter.com/SKHN_ADA_POOL",
+  "pledge_address": "addr1shfu4863uj0skynw8529gf43vl40wz65xqp0m9jlg3uzhma3l32zs4kkrc7"
 }
