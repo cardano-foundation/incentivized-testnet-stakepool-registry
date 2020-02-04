@@ -124,11 +124,3 @@ Precise entry validity rules are described in the following section.
 
 - [How to Register Your Owner Metadata](https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry/wiki/How-to-Register-Your-Owner-Metadata)
 - [How to Register Your Stake Pool](https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry/wiki/How-to-Register-Your-Stake-Pool)
-
-## Disclaimer
-
-> :warning: At this point in time, we are opening a pre-registration process for new stake pools. 
-> 
-> So if you register your stake pool now, your pull request will remain open until the point at which the complete network functionality is available, when it will be merged and officially registered. 
-> 
-> Once your stake pool is fully registered it will appear as a delegation option in the supported testnet wallets.
