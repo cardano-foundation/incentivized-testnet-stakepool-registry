@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1fpjt5war7q3f0h5hukmujuaa26415fr24s3wccvzp3kh8r9tpn2qnn2uv3",
+    "name": "Hi-ROI stakepool experiment",
+    "ticker": "HIROI",
+    "homepage": "https://hi-roi.com",
+    "pledge_address": "addr1s4yxfw3m50cz9977jljm0jtnh4t2h73yd2kz9mrpsgxx6uuv4vxdgg7rjeh",
+    "description": "A ITN staking experiment that should offer set-and-forget high retur-on-investment staking. For more detials visit the website."
+}
