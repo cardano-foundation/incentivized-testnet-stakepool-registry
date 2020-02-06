@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1jvr2h4ar35rwzft04wwymu2d2ezfekq28ll2vjx2r57y6kpmlu2ql9mran",
+  "name": "Ada Train",
+  "description": "The Ada Train pool moves always on the latest version, fast and safely.",
+  "ticker": "ADAT",
+  "homepage": "https://adatrain.com",
+  "pledge_address": "addr1skfsd27h5wxsdcf9d74ecn03f4tyf8xcpgllafjgegwncn2c80l3gk6mrse"
+}
