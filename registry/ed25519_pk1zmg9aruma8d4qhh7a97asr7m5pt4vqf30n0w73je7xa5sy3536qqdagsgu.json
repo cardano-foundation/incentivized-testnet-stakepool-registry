@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1zmg9aruma8d4qhh7a97asr7m5pt4vqf30n0w73je7xa5sy3536qqdagsgu",
+  "name": "NOBI Honest Pool",
+  "ticker": "NOBI",
+  "description": "NOBI - The honest 1% fee Cardano stake pool.",
+  "homepage": "https://honestmining.com",
+  "pledge_address": "addr1s5tdqh50n05ak5z7lm5hmkq0mws9w4spx97dam6xt8cmkjqjxj8gqun6tld"
+}
