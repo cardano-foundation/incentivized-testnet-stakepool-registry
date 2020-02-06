@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1ykhyt97nsndkuezqa220f739hl9fzuz8ums2jl9lf9xlv7jd57cqjja2lf",
+  "name": "TRUST Stake Pool",
+  "description": "TRUST Stake Pool is located in Seattle, Washington. Monitored 24/7 365 days a year",
+  "ticker": "TRUST",
+  "homepage": "https://cardanopool.io",
+  "pledge_address": "addr1s5j6u3vh6wzdkmnygr4ffa86yklu4ytsglnwp2tuhay5man6fknmqy00uhc"
+}
