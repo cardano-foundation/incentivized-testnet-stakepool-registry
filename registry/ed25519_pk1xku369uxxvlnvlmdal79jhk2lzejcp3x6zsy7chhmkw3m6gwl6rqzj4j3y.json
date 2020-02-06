@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1xku369uxxvlnvlmdal79jhk2lzejcp3x6zsy7chhmkw3m6gwl6rqzj4j3y",
+  "name": "BoomStake",
+  "description": "Welcome to the Boom Stakepool. Run by Cardano enthusiasts for the Cardano community. Stake with us for an awesome experience. Boom!",
+  "ticker": "BOOM",
+  "homepage": "https://github.com/boomstake",
+  "pledge_address": "addr1s56mj8ghscen7dnldhhlck27etutxtqxymg2qnmz7lwe680fpmlgv3z828z"
+}
