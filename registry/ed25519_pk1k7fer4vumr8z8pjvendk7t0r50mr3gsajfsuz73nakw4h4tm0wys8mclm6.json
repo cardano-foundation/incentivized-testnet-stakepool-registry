@@ -1,7 +1,7 @@
 {
-'owner': 'ed25519_pk1k7fer4vumr8z8pjvendk7t0r50mr3gsajfsuz73nakw4h4tm0wys8mclm6',
-'name': 'Mountmint.com - Vein 1',
-'ticker': 'MOMI1',
-'homepage': 'https://www.mountmint.com',
-'pledge_address': 'addr1skme8yw4nnvvuguxfnxdkmeduw3lvw9zrkfxrst6x0ke6k740dacj60xspq'
+"owner": "ed25519_pk1k7fer4vumr8z8pjvendk7t0r50mr3gsajfsuz73nakw4h4tm0wys8mclm6",
+"name": "Mountmint.com - Vein 1",
+"ticker": "MOMI1",
+"homepage": "https://www.mountmint.com",
+"pledge_address": "addr1skme8yw4nnvvuguxfnxdkmeduw3lvw9zrkfxrst6x0ke6k740dacj60xspq"
 }
