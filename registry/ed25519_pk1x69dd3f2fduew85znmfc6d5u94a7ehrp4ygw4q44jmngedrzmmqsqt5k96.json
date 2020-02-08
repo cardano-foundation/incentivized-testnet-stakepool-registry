@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1x69dd3f2fduew85znmfc6d5u94a7ehrp4ygw4q44jmngedrzmmqsqt5k96",
+  "name": "Super Stake Pool",
+  "description": "Staking pool run by superheroes",
+  "ticker": "SUPER",
+  "homepage": "https://superstakepool.com",
+  "pledge_address": "addr1s5mg44k99f9hn9c7s20d8rfknskhhmxuvx53p65zkktwdr95vt0vzpcuxn2"
+}
