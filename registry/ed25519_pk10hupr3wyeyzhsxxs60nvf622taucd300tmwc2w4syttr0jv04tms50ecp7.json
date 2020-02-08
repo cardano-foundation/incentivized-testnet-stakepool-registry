@@ -1,8 +1,8 @@
 {
-'owner': 'ed25519_pk10hupr3wyeyzhsxxs60nvf622taucd300tmwc2w4syttr0jv04tms50ecp7',
-'name': 'BeeStake',
-'ticker': 'BEES',
-'description': 'Staking Ada in Europe',
-'homepage': 'https://projectozaqueu.wixsite.com/staking-bee',
-'pledge_address': 'addr1s47lsyw9cnys27qc6rf7d38fff0hnpk9aa0dmpf6kq3dvd7f3740wd7y9q8'
+"owner": "ed25519_pk10hupr3wyeyzhsxxs60nvf622taucd300tmwc2w4syttr0jv04tms50ecp7",
+"name": "BeeStake",
+"ticker": "BEES",
+"description": "Staking Ada in Europe",
+"homepage": "https://projectozaqueu.wixsite.com/staking-bee",
+"pledge_address": "addr1s47lsyw9cnys27qc6rf7d38fff0hnpk9aa0dmpf6kq3dvd7f3740wd7y9q8"
 }
