@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1srgmwgnfj28kdms3yx5dafl0w0s0rlewl3qun0whmlnp7y6fmc2qaqg7ht",
-  "name": "ADA Coin",
+  "name": "Global Staking Pool",
   "description": "UK-based",
-  "ticker": "ADAC",
-  "homepage": "https://www.adacoin.co.uk",
+  "ticker": "GLOB",
+  "homepage": "https://www.globalstakingpool.com",
   "pledge_address": "addr1skqdrdezdxfg7ehwzys63h48aae7pu0l9m7yrjda6l07v8cnf80pgr3c0f0"
 }
