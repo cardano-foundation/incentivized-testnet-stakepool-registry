@@ -1,0 +1,8 @@
+{ 
+  "owner": "ed25519_pk10htm4rzek9fxle06hr52ua9fry2j27jhr93r8s9h899w64vv24mstlhlat", 
+  "name": "Simple Stake Pool", 
+  "description": "Simple, No fuss, Just staking, Just rewards", 
+  "ticker": "SMPLE", 
+  "homepage": "https://simplestakepool.com", 
+  "pledge_address": "addr1s47a0w5vtxc4yml9l2uw3tn54yv32ft62uvkyv7qkuu54m24332hwvgxd30" 
+} 
