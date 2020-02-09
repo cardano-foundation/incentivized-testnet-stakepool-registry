@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1elk26e52cetccnp6rw2u997tfcw7x3xqz5yaswe5lf8gm7rxcj7s8h37xt",
+  "name": "Staking Dutchman",
+  "ticker": "DUTCH",
+  "description": "The Staking Dutchman is a legendary staking pool that is doomed to stake on the blockchain forever. Join the crew!",
+  "homepage": "https://stakingdutchman.github.io",
+  "pledge_address": "addr1sh87ettx3tr90rzv8gdets5hed8pmc6ycq2snkpmxnayar0cvmzt6vtljrp"
+}
