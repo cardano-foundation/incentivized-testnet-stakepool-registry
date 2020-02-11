@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1gu90tw2jnmsn7axl2ccpmlsqdzm54a2da7v0u9u3gqd2vgaqfn2q8q9yk8",
+  "name": "Atom Stake Pool",
+  "description": "Bare-Metal Dedicated SSD Server with 1 Gbps Internet Connection in Tier 4 data center in London",
+  "ticker": "ATOM",
+  "homepage": "https://atompool.info",
+  "pledge_address": "addr1s4rs4ade220wz0m5matrq807qp5twjh4fhhe3lshj9qp4f3r5pxdgfpcjyx"
+}

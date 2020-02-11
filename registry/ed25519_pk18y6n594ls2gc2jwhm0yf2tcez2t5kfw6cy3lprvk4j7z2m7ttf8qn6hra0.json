@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk18y6n594ls2gc2jwhm0yf2tcez2t5kfw6cy3lprvk4j7z2m7ttf8qn6hra0",
+  "name": "Guardian ADA Pool",
+  "description": "24/7 ADA stake pool - worry-free, secure, always-on and built to last.",
+  "ticker": "GUARD",
+  "homepage": "https://guardianadapool.com",
+  "pledge_address": "addr1s5un2wskh7pfrp2f6ldu39f0ryffwje9mtqj8uydj6ktcft0eddyuwtep55"
+}
