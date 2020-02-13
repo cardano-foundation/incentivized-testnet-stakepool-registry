@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk15ecc8zcgd4r0t255m53t8g4887v6zj5txxe8hyevcvwc6qu2dansy5gpsl",
+  "name": "ADAwolf",
+  "description": "ADAwolf is a Cardano stake pool run by FROG - WOLF revenue supports the Adosia IoT project which will tokenize on Cardano",
+  "ticker": "WOLF",
+  "homepage": "https://adafrog.io",
+  "pledge_address": "addr1s4ce2r33pjxqp7nafduulnf88upyh4zetaw07x34rwucttzq5dhhxkt6s3a"
+}
