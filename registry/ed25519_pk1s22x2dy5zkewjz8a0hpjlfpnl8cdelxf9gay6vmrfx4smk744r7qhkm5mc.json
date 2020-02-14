@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1s22x2dy5zkewjz8a0hpjlfpnl8cdelxf9gay6vmrfx4smk744r7qhkm5mc",
-  "name": "EMURGO’ STAKEPOOL",
-  "ticker": "1EMUR",
-  "homepage": "https://emurgo.io",
-  "description": "EMURGO’s official Stake Pool. EMURGO is one of three organizations that contribute to the development of Cardano. Let’s make this Testnet successful by delegation to multiple stakepools.",
+  "name": "LOST POOL",
+  "ticker": "LOST1",
+  "homepage": "https://lostpool/",
+  "description": "This is a LOST pool, a pool that used to be online but won't be anymore. Please, redelegate.",
   "pledge_address": "addr1skpfgef5js2m96ggl47uxtayx0ulph8uey4r5nfnvdy6krwm6k50cfwhjgf"
 }
