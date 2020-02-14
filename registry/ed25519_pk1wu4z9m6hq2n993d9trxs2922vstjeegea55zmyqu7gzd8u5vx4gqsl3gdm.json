@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1wu4z9m6hq2n993d9trxs2922vstjeegea55zmyqu7gzd8u5vx4gqsl3gdm",
+  "name": "ZERO staking POOL",
+  "description": "NO surprise fees! All rewards goes to delegators except a small fixed fee.",
+  "ticker": "ZERO",
+  "homepage": "https://ahlnet.wixsite.com/zero",
+  "pledge_address": "addr1s4mj5gh02up2v5k954vv6pg4ffjpwt89r8kjstvsrneqf5lj3s64q64s3ca"
+}
