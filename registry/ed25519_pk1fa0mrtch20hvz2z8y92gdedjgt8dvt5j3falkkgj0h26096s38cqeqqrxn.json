@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1fa0mrtch20hvz2z8y92gdedjgt8dvt5j3falkkgj0h26096s38cqeqqrxn",
-  "name": "Codengine",
+  "name": "CODENGINE",
   "ticker": "NGINE",
-  "description": "Low-fee | Secure | Reliable stake pool run by industry experts.",
+  "description": "Low-fee | Secure | Reliable stake pool run by industry experts. Fees contribute to building DApps and supporting Cardano.",
   "homepage": "https://codengine.io",
   "pledge_address": "addr1s484lvd0zaf7asfggus4fph9kfpva43wj298h76ezf7atfuh2zylqpvrlyc"
 }
