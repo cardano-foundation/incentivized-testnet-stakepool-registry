@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1wx2af7d0mtvhqumyp05hmyr5exuuuqyzat5rjdfv49x6jxnqs9lq0z0dv3",
+  "name": "JetChicken",
+  "description": "JetChicken is a Cardano stake pool run by FROG - JET revenue supports the Adosia IoT project which will tokenize on Cardano",
+  "ticker": "JET",
+  "homepage": "https://adafrog.io",
+  "pledge_address": "addr1s5r6he77prsfkyzy78qx0c77rxx7f7uxv7tkse9gcmlezkyt4vxrvq2rh8r"
+}
