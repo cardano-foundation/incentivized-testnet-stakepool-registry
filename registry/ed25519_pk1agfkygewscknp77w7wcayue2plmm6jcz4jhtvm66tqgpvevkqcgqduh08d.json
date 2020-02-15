@@ -1,7 +1,8 @@
 {
-'owner': 'ed25519_pk1agfkygewscknp77w7wcayue2plmm6jcz4jhtvm66tqgpvevkqcgqduh08d',
-'name': '365 Stake Pool',
-'ticker': '365STK',
-'homepage': 'https://365.stke.club',
-'pledge_address': 'addr1s4mrxhev7kwduz7k28n5syka2dmnmnar02yfm655f9zk4x9yaz00gu6rfdm'
+	"owner": "ed25519_pk1agfkygewscknp77w7wcayue2plmm6jcz4jhtvm66tqgpvevkqcgqduh08d",
+	"name": "365 Stake Pool",
+        "description" : "Reliably growing your stake 365 days a year!",
+	"ticker": "365STK",
+	"homepage": "https://365.stke.club",
+	"pledge_address": "addr1s4mrxhev7kwduz7k28n5syka2dmnmnar02yfm655f9zk4x9yaz00gu6rfdm"
 }
