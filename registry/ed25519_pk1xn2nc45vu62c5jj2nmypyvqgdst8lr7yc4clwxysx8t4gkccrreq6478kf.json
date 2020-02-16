@@ -2,7 +2,7 @@
   "owner": "ed25519_pk1xn2nc45vu62c5jj2nmypyvqgdst8lr7yc4clwxysx8t4gkccrreq6478kf",
   "name": "Cicada Pool NZ",
   "description": "New Zealand based cardano stake pool",
-  "ticker": "CCDANZ",
+  "ticker": "CCDA",
   "homepage": "https://3301.nz",
   "pledge_address": "addr1s56d20zk3nnftzj2f20vsy3sppkpvlu0cnzhraccjqcaw4zmrqv0ycrhztc"
 }
