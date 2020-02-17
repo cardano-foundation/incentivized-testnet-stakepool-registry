@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1fw227l2a6mstpv87ntaq8hwf7qssp4xfwu9y4gcp60t69h78e4ds4wfmkk",
+  "name": "Arcadia's TESLA Stake Pool",
+  "description": "ZERO FIXED, 2% FEE",
+  "ticker": "TESLA",
+  "homepage": "https://arcadiastakepool.com",
+  "pledge_address": "addr1s49eftmathtwpv9sl6d05q7ae8czzqx5e9ms5j4rq8fa0gklclx4k5psm3x"
+}
