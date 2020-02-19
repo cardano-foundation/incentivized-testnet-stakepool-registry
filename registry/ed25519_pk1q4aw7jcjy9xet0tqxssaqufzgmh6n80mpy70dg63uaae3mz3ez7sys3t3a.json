@@ -3,6 +3,6 @@
   "name": "ADA-india",
   "description": "India-based-cardano-stake-pool",
   "ticker": "INDIA",
-  "homepage": "http://adastake.dev/",
+  "homepage": "https://adastake.dev/",
   "pledge_address": "addr1s5zh4m6tzgs5m9davq6zr5r3yfrwl2valvynea4r28nhhx8v28yt6csyd7w"
 }
