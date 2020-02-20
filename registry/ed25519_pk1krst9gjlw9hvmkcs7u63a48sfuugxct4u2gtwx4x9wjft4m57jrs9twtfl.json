@@ -1,7 +1,8 @@
-{
-'owner': 'ed25519_pk1krst9gjlw9hvmkcs7u63a48sfuugxct4u2gtwx4x9wjft4m57jrs9twtfl',
-'name': 'Narigon - Pool',
-'ticker': 'NGON',
-'homepage': 'https://narigon.runkodapps.com/',
-'pledge_address': 'addr1skcwpv4ztackanwmzrmn28k57p8n3qmpwh3fpdc65c46f9whwn6gwvngfuu'
+  {
+    "owner": "ed25519_pk1krst9gjlw9hvmkcs7u63a48sfuugxct4u2gtwx4x9wjft4m57jrs9twtfl",
+    "name": "Narigon Pool",
+    "description": "Stake Pool made in KNY, Barcelona",
+    "ticker": "NGON",
+    "homepage": "https://narigon.runkodapps.com",
+    "pledge_address": "addr1skcwpv4ztackanwmzrmn28k57p8n3qmpwh3fpdc65c46f9whwn6gwvngfuu"
 }
