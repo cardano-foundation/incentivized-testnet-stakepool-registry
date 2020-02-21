@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk138r2ge5cjeuqk9cku46ele44xhg9aak4v6fj3sr9qgnsn4fp5ftqs5dsv9",
+  "name": "CARDANOIST",
+  "description": "Cardanoist Stake Pool",
+  "ticker": "CAIST",
+  "homepage": "https://www.cardanoist.com",
+  "pledge_address": "addr1skyudfrxnzt8szchzmjht8lxk56aqhhk64nfx2xqv5pzwzw4yx39v5nvupt"
+}
