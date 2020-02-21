@@ -3,5 +3,6 @@
   "name": "SwissStaking",
   "description": "Swiss staking pool operated from Switzerland",
   "ticker": "CHE",
+  "homepage": "https://twitter.com/SwissStaking",
   "pledge_address": "addr1skhjxwh8y00txpnlas0vd7ac6uea5563r9dshyjagpr8jp64rs565tw8pap"
 }
