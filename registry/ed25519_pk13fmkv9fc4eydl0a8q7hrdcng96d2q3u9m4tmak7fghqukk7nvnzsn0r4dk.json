@@ -1,7 +1,7 @@
 {
 "owner": "ed25519_pk13fmkv9fc4eydl0a8q7hrdcng96d2q3u9m4tmak7fghqukk7nvnzsn0r4dk",
 "name": "Elmo's Stake Pool",
-"description": "A Cardano Stake Pool hosted in London. 3+GHz Intel Skylake CPU & NVMe SSD.",
+"description": "Cardano Stake Pool hosted on bare-metal in the UK • Ryzen 5 3600 (6c/12t) • 32GB RAM • 500GB NVMe • Dedicated 500Mb asymmetric fibre.",
 "ticker": "ELMO",
 "homepage": "https://elmostake.com",
 "pledge_address": "addr1snkcez2yg2x2g5utqw5uxdsz2wwunfda7sd338885249r7haucaqkg5x6e28mxcqldaqs89va3tftqev9ynr3rnqfwhjecud3aytlvpyp5wehp"
