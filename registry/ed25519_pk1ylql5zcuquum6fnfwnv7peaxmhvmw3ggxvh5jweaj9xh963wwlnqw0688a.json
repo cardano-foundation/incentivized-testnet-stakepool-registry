@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1ylql5zcuquum6fnfwnv7peaxmhvmw3ggxvh5jweaj9xh963wwlnqw0688a",
+  "name": "AdaOracle",
+  "description": "Cardano stake pool",
+  "ticker": "ORCL",
+  "homepage": "https://www.adaoracle.link/",
+  "pledge_address": "addr1s5nur7strsrnn0fxd96dnc885mwand69pqej7jfm8kg56uh29em7vtdullr"
+}
