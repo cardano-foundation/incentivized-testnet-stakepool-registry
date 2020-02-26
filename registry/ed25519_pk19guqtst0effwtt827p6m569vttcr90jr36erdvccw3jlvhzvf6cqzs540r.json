@@ -1,7 +1,8 @@
 {
 "owner": "ed25519_pk19guqtst0effwtt827p6m569vttcr90jr36erdvccw3jlvhzvf6cqzs540r",
-"name": "Cheapstaking Azure Pool1",
+"name": "Cheapstaking Azure Pool (Pool1 or Pool2)",
+"description": "Trusted Cardano Stake Pool professionally run - Fast, Secure, Affordable. Powered by MS Azure! HIGH AVERAGE ROS% Note: We run two seperate pools with the same ticker. Please delegate to lowest stake for best reward.",
 "ticker": "CHEAP",
-"homepage": "https://cheapstaking.com",
+"homepage": "https://bit.ly/2GQSgwi",
 "pledge_address": "addr1s54rspwpdl999edvatc8twng43d0qv47gw8tyd4nrp6xtajuf38tqsk0d9e"
 }
