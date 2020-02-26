@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1cn6wfeckjy8r8v0ke7ey0rvvg55madw2kxr0v7zf73436km7cgtse5mk6a",
+  "name": "NIXOS",
+  "description": "NIXOS Pool, deployed usig NIXOPS",
+  "ticker": "NIXOS",
+  "homepage": "https://linuxpool.io",
+  "pledge_address": "addr1shz0fe88z6gsuva37m8my3ud33zjn044e2ccdancf86xk82m0mppw40wlw5"
+}
