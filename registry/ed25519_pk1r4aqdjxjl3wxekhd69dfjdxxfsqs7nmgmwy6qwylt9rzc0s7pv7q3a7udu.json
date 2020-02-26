@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1r4aqdjxjl3wxekhd69dfjdxxfsqs7nmgmwy6qwylt9rzc0s7pv7q3a7udu",
+  "name": "BeKind2",
+  "description": "Supportive stakepool operated by Gertjan Smit",
+  "ticker": "BKND2",
+  "homepage": "https://smitstakepools.online",
+  "pledge_address": "addr1s5wh5pkg6t79cmx6ahg44xf5cexqzr60drdcngpcnav5vtp7rc9ncmfa4ug"
+}
