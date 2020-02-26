@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1veyk08ehfduhrlwtjdnzkrgfvg68h9z9e5jvyln0fxjhd7eg3ewq4ewec6",
+  "name": "iNorrland Stake Pool",
+  "description": "My name is Per-Arne Englund and operates this stake pool. Me and my stake pool are located in Gideå Sweden. I really believe in the Cardano blockchain and decentralisation. As an engineer I will keep tuning this node to make it operate as smooth as possible.",
+  "ticker": "INORR",
+  "homepage": "http://inorrland.se/cardano",
+  "pledge_address": "addr1s4nyjeulxa9hju0aewfkv2cdp93rg7u5ghxjfsn7day62ahm9z89cheywuw"
+}
