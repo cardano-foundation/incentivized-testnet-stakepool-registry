@@ -1,7 +1,7 @@
 {
-'owner': 'ed25519_pk1qpzzcngfh6kf6q9fgqav4w2hytl8d2hcgfty9w40e90l2v5lkzpq3t24hv',
-'name': ‘Coinamia’,
-'ticker': ‘COIN’,
+'owner': 'ed25519_pk1z4f6cpxw56kyfyx02zrj7r3az7a2fcc7zdrtk7wyf03wfx3tmhvqsaa8mw',
+'name': ‘Coinamia cardano stakepool’,
+'ticker': ‘COINA’,
 'homepage': 'https://coinamia.com,
-'pledge_address': 'addr1s5qygtzdpxl2e8gq49qr4j4e2u30ua42lpp9vs464ly4lafjn7cgyyczxjs'
+'pledge_address': 'addr1s5248tqye6n2c3yseaggwtcw85tm4f8rrcf5dwmec3979ey690wasd2tmy4'
 }
