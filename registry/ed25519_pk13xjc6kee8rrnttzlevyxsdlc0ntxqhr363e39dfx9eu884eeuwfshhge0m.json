@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk13xjc6kee8rrnttzlevyxsdlc0ntxqhr363e39dfx9eu884eeuwfshhge0m",
+  "name": "Orion Stake Pool",
+  "description": "Orion Stake Pool, come hunt blocks with us",
+  "ticker": "ORION",
+  "homepage": "https://orionstaking.com",
+  "pledge_address": "addr1sky6tr2m8yuvwddvtl9ss6phlp7dvczuw828xy44ych8su7h883exzuh3pl"
+}

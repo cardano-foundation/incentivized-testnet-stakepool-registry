@@ -1,8 +1,8 @@
 {
     "owner": "ed25519_pk1z6ha5lz4snawndt64gqztyznxrm4c6fvt9l0qca0sad8zwurp32shc7lf4",
-    "name": "WA(AU)-staking",
+    "name": "WA-Staking",
     "ticker": "WAAUS",
-    "description": "The WA node",
-    "homepage": "https://wastaking.com.au",
+    "description": "Node for supporting decentralized cryptocurrency.",
+    "homepage": "https://www.wastaking.xyz",
     "pledge_address": "addr1s5t2lknu2kz046d4024qqfvs2vc0whrf93vhaurr47r45ufmsvx929kw8y5"
 }
