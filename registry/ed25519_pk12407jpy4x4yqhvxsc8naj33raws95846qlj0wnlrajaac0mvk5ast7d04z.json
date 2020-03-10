@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk12407jpy4x4yqhvxsc8naj33raws95846qlj0wnlrajaac0mvk5ast7d04z",
+  "name": "LINUX",
+  "description": "A Fully Linux Pool",
+  "ticker": "LINUX",
+  "homepage": "https://linuxpool.io",
+  "pledge_address": "addr1s424l6gyj565szas6rq70k2xy046qks7hgr7fa60u0kthhpldj6nkalnj6d"
+}

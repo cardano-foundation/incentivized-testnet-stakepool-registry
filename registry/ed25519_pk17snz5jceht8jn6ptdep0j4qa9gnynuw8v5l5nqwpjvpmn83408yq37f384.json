@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk17snz5jceht8jn6ptdep0j4qa9gnynuw8v5l5nqwpjvpmn83408yq37f384",
+  "name": "Oneworld Cardano Staking", 
+  "description": "ADA staking 24/7, secure and resilient stake pool service.",
+  "ticker": "ONEW",
+  "homepage": "https://oneworldcardanostaking.com",
+  "pledge_address": "addr1sh6zv2jtrxav720g9dhy9725r54zvj03cajn7jvpcxfs8wv7x4uustd2d75"
+}
