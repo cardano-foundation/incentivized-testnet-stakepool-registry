@@ -1,0 +1,8 @@
+{
+	"owner": "ed25519_pk1e73nprg95c808uag9ce3v790jwelk8amp23nzn7pwg6882m2hgsqrpqtnz",
+	"name": "Nal Sector 0",
+	"ticker": "NAL0",
+	"description": "Pool0 for testing blockchain integrity and pentesting. This is the honest node.",
+	"homepage": "https://nalsector.com",
+	"pledge_address": "addr1sh86xvydqknqauln4qhrx9nc47fm87clhv92xv20c9erguatd2azq7nluq8"
+}

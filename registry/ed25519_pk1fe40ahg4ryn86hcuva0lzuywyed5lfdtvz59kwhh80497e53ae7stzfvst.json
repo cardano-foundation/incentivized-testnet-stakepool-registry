@@ -1,8 +1,8 @@
-{
+{ 
  "owner": "ed25519_pk1fe40ahg4ryn86hcuva0lzuywyed5lfdtvz59kwhh80497e53ae7stzfvst",
  "name": "PrevPool",
- "description": "A very reliable German pool run in a German cloud. Our pool is active 24/7 and monitored closely. Our main focus lies on supporting the great Cardano project. Our pool is therefore absolutely free. All of our returns are delegated.",
+ "description": "Very reliable German pool | Online 24/7 | 0 taxes | Run by a professional company that believes in the great Cardano project",
  "ticker": "PREV1",
- "homepage": "https://previsionz.de",
+ "homepage": "https://previsionz.de/staking",
  "pledge_address":"addr1s48x4lkaz5vjvl2lr3n4luts3cn9kna94ds2ske67ua75hmxj8h86twh76e"
 }
