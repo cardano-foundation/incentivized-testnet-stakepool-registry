@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk100d002l5dg98zeht533vv4j9thd90nd3j6amcash3ddpqazzxdsq5fc2r0",
-  "name": "KOHA Profit Share Pool",
+  "name": "KOHA by Kiwipool Staking",
   "ticker": "KOHA",
-  "description": "Low Fees. Profit sharing to commence in Mainnet. Details TBC",
-  "homepage": "https://twitter.com/profitsharepool",
+  "description": "Low Fees. Profit sharing throughout ITN",
+  "homepage": "https://kiwipool.org",
   "pledge_address": "addr1s4aa4aat734q5utxawjx93jkg4wa547dkxtth0rkz7945yr5ggekqezlukr"
 }
