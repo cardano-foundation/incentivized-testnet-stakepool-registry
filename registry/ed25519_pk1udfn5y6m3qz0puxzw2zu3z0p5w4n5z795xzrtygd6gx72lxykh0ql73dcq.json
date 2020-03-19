@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1udfn5y6m3qz0puxzw2zu3z0p5w4n5z795xzrtygd6gx72lxykh0ql73dcq",
+  "name": "Milk Lump",
+  "description": "Milk Lump is a Cardano stake pool run by FROG - MILK revenue supports the Adosia IoT project which will tokenize on Cardano",
+  "ticker": "MILK",
+  "homepage": "https://adafrog.io",
+  "pledge_address": "addr1skjnu9fs6n6aj8l5htktpca907d3huvgem68yje77g2etu483uxgzv8j7h6"
+}

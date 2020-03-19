@@ -1,0 +1,8 @@
+{
+"owner": "ed25519_pk16caphg5tyez7efughhynjtgq3ydhc39eklz8jthhzjcusu72f7esltnfdx",
+"name": "Proof of Africa",
+"description": "Hi! We are PoA, a stakepool-powered African adoption driver for the Cardano community.",
+"ticker": "PROOF",
+"homepage": "https://poapool.com",
+"pledge_address": "addr1shtr5xaz3vnytm983z7ujwfdqzy3klzyhxmug7fw7u2trjrnef8mxhlwkhj"
+}
