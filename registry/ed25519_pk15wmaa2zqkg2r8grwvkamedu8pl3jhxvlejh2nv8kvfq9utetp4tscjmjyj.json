@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk15wmaa2zqkg2r8grwvkamedu8pl3jhxvlejh2nv8kvfq9utetp4tscjmjyj",
+  "name": "France cardano stake pool",
+  "description": "A stake pool hosted in France",
+  "ticker": "FRA",
+  "homepage": "https://france-cardano.fr/",
+  "pledge_address": "addr1sk3m0h4ggzepgvaqdejmh09hsu87x2uenlx2a2ds7e3yqh309vx4wazxwjn"
+}

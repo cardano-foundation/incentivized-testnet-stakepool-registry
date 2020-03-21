@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1wu2xfakkx7kda675vznx4a8xlmhz6h5t5tfpjr2ll7auhd8ld68s8karam",
-  "name": "Minty Pool",
+  "name": "MINTY by Kiwipool Staking",
   "ticker": "MINTY",
   "description": "Extreme Low % Fees. Ideal for large stacks",
-  "homepage": "https://twitter.com/mintypool1",
+  "homepage": "https://kiwipool.org",
   "pledge_address": "addr1s4m3ge8k6cm6ehht63s2v6h5umlwut273w3dyxgdtllmhja5lahg76edqcl"
 }
