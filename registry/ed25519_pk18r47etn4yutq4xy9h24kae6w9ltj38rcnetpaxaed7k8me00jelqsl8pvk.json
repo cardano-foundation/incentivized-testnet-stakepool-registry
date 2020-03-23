@@ -1,0 +1,7 @@
+{
+'owner': 'ed25519_pk18r47etn4yutq4xy9h24kae6w9ltj38rcnetpaxaed7k8me00jelqsl8pvk',
+'name': 'ALIVE stake pool',
+'ticker': 'ALIVE',
+'description': 'cardano for life',
+'pledge_address': 'addr1s5uwhm9ww5n3vz5cska2kmh8fchaw2yu0z09v85mh9h6cl09a7t8urg34np'
+}
