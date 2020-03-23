@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1jt6g0nhwaekapk4z82rrkx2kcuxeak920nmccasg72gmsf7eyptq03gmgh",
+    "name": "M Pool 3",
+    "ticker": "M03",
+    "homepage": "https://m-nodes.github.io",
+    "pledge_address": "addr1skf0fp7wamhxm5x65gagvwce2mrsm8kc4f700rrkprefrwp8mys9v6gyfw4",
+    "description": "Our mission is to support the Cardano network by focusing on security, availability, automation, optimization and 24/7 monitoring"
+}
