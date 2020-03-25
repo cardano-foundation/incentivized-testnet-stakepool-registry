@@ -1,7 +1,7 @@
 {
- "owner": "ed25519_pk1c66dt4mcdk7tr9lpmf2pf94aej8uk25m4sfksxulyptjfs8xgcnqnawv9t",
- "name": "Coinolix stake pool",
- "ticker": "CLX",
- "homepage": "https://coinolix.com/pool",
- "pledge_address": "addr1shrtf4wh0pkmevvhu8d9g9ykhhxglje2nwkpx6qmnus9wfxquerzvpd889n"
- }
+    "owner": "ed25519_pk1c66dt4mcdk7tr9lpmf2pf94aej8uk25m4sfksxulyptjfs8xgcnqnawv9t",
+    "name": "Coinolix stake pool",
+    "ticker": "CLX",
+    "homepage": "https://coinolix.com/pool",
+    "pledge_address": "addr1shrtf4wh0pkmevvhu8d9g9ykhhxglje2nwkpx6qmnus9wfxquerzvpd889n"
+    }
