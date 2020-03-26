@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1q0dvuj97xa0fh85tch5m4y4ht8en5l6s0dmjj05xzwwnhwevutystjul5z",
+    "name": "KyurenJar",
+    "ticker": "KRJ",
+    "description": "This is KRJ's Stake-Pool",
+    "homepage": "https://twitter.com/hishinoki",
+    "pledge_address": "addr1s5pa4njghcm4axu730z7nw5jkavlxwnl2pahw2f7scfe6wam9n3vjwag6g5"
+}
