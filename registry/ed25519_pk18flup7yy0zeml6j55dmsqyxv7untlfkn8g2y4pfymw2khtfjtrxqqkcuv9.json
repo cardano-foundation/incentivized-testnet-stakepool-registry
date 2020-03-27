@@ -1,6 +1,7 @@
 {
   "owner": "ed25519_pk18flup7yy0zeml6j55dmsqyxv7untlfkn8g2y4pfymw2khtfjtrxqqkcuv9",
-  "name": "PyroNexus 1%",
+  "name": "PyroNexus.com 1%",
+  "description": "Amazon Web Services-hosted Cardano Staking Pool. 1% flat tax. 0 fixed tax.",
   "ticker": "PYRO",
   "homepage": "https://pyronexus.com/",
   "pledge_address": "addr1s5a8ls8cs3ut80l22j3hwqqsenmjd0ax6vapgj59ynde26adxfvvcf6680g"
