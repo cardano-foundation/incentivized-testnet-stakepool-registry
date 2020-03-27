@@ -1,0 +1,7 @@
+{
+  "owner": "ed25519_pk16y7yapv67w7z3aeu4qcmyk25ylnhx8mgxyw5pehu53a702hp6lrqk96eqk",
+  "name": "IOHK Stakepool",
+  "ticker": "IOHK6",
+  "homepage": "https://staking.cardano.org",
+  "pledge_address": "addr1shgncn59ntemc28h8j5rrvje2sn7wucldqc36s8xljj8hea2u8tuvvlaq4x"
+}
