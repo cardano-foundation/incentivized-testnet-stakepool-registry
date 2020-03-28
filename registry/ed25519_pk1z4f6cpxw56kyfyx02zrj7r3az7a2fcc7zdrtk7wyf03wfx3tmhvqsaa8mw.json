@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1z4f6cpxw56kyfyx02zrj7r3az7a2fcc7zdrtk7wyf03wfx3tmhvqsaa8mw",
+  "name": "Coinamia staking pool",
+  "ticker": "COINA",
+  "description": "1% Fees, 99.99% uptime, get best of your delegation",
+  "homepage": "https://coinamia.com/",
+  "pledge_address": "addr1s5248tqye6n2c3yseaggwtcw85tm4f8rrcf5dwmec3979ey690wasd2tmy4"
+}
