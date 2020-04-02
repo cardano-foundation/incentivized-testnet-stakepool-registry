@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1h2gssnwxae4gxm0tk0w5e2n2aau4c03l5esyrxg4a5t4lf24q7mqwk8y2x",
+  "name": "HAI Stake pool test",
+  "ticker": "HAI",
+  "description": "Stake pool made to test ITN",
+  "homepage": "http://194.58.70.104",
+  "pledge_address": "addr1qkafzzzdcmhx4qmdawea6n92dthhjhp787nxqsvezhk3wha925rmvhek2g3"
+}
