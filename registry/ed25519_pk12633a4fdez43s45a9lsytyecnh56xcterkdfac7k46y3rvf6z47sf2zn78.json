@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk12633a4fdez43s45a9lsytyecnh56xcterkdfac7k46y3rvf6z47sf2zn78",
+  "name": "StakedIN",
+  "ticker": "STKIN",
+  "description": "We specialize in cardano stake pools.",
+  "homepage": "https://stakedin.com/",
+  "pledge_address": "addr1s4t2x8k49hy2kxzkn5h7q3vn8zw7ngmp0ywe48hr66hgjyd38g2h6jduj74"
+}
