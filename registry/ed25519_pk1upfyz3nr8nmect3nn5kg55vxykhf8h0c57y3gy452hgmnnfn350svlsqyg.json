@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1upfyz3nr8nmect3nn5kg55vxykhf8h0c57y3gy452hgmnnfn350svlsqyg",
+  "name": "Cardano Nation - Stakepool",
+  "ticker": "CDNST",
+  "description": "Stakepool for the Cardano community.",
+  "homepage": "https://cardanation.com/",
+  "pledge_address": "addr1shs9ys2xvv7008pwxwwjezj3scj6ay7alzncj9qjk32arwwdxwx37ntz6pm"
+}
