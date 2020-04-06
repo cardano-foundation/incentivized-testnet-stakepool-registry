@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1rpemqtkcxv3gmhath84yz5akr7kv4xaykddtnj35ccyeeygdrq3szzrm99",
-  "name": "Inflow Staking Pool",
-  "description": "A competitive, profitable, fair-play, individual-operated, bare-metal pool.",
-  "ticker": "INFLW",
+  "name": "Hydra Stakepool",
+  "description": "A competitive, profitable, fair-play, individual-operated, bare-metal stakepool.",
+  "ticker": "HYDRA",
   "homepage": "https://inflw.com",
   "pledge_address": "addr1s5v88vpwmqej9rwl4wu75s2nkc06ej5m5je44ww2xnrqn8y3p5vzxfw6t7e"
 }
