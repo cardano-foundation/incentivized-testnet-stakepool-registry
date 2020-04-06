@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk16ag9s6mtryewadpvzrxff4l2d38kfgkvr2szkj52zflwzljseuqqg9hxfn",
+  "name": "Cardano Puppy Pool",
+  "ticker": "PET",
+  "homepage": "https://cardanopuppypool.com",
+  "pledge_address": "addr1snetdagd5ej0t62zlkz0r5n3ak76nyld2g3vlq66zt90e9h2z27ay04yealrsppu9t8s75mn0zu0yzpa327j80l2ytrzpxpng8rcfmqxvxwck3",
+  "description": "Make a difference!  Stake with Cardano Puppy Pool where a portion of the operator staking rewards are donated to no-kill animal shelters."
+}
