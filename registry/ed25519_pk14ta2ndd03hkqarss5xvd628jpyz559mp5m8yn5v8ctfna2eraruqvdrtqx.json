@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk14ta2ndd03hkqarss5xvd628jpyz559mp5m8yn5v8ctfna2eraruqvdrtqx",
+  "name": "IRON POOL",
+  "ticker": "IRON",
+  "description": "Reliable Stake Pool for ADA holders",
+  "homepage": "https://www.facebook.com/ironstakepool",
+  "pledge_address": "addr1s5dz5r52xpfp4s4dac4jc38twry4eyjsgfq3dsa64acmxtutdg6tuhg2k79"
+}
