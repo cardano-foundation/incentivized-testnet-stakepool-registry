@@ -1,6 +1,7 @@
 {
   "owner": "ed25519_pk14dypg4cvgjfldhlg9e2pm8p5e4j3hfn0yksyusth948hj3zv39pszjth4u",
   "name": "Signature",
+  "description": "2 tech-artists running a Cardano stake pool based in Amsterdam. We charge a small fee to be able to scale our infrastructure and maintain the service (Fixed: 100A; Variable: 7.25%). Your trusted and valuable Cardano 'Stake-of-the-Art' pool is Signature.",
   "ticker": "SIGN",
   "homepage": "https://signaturestaking.com",
   "pledge_address": "addr1sk45s9zhp3zf8aklaqh9g8vuxnxk2xaxduj6qnjpwuk5772yfjy5xqf7k6n"
