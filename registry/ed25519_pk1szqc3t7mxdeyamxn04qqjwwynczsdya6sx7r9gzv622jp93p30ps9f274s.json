@@ -1,0 +1,8 @@
+{
+   "owner":"ed25519_pk1szqc3t7mxdeyamxn04qqjwwynczsdya6sx7r9gzv622jp93p30ps9f274s",
+   "name":"ALIVE stake pool",
+   "ticker":"ALIVE",
+   "description":"ALIVE and staking",
+   "homepage": "https://alivepool.org",
+   "pledge_address":"addr1skqgrz90mvehynhv6d75qzfecj0q2p5nh2qmcv4qfnff2gykyx9uxag7jmf"
+}
