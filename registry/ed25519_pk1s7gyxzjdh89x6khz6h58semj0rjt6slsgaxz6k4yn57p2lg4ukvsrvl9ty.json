@@ -1,0 +1,9 @@
+{
+   "owner": "ed25519_pk1s7gyxzjdh89x6khz6h58semj0rjt6slsgaxz6k4yn57p2lg4ukvsrvl9ty",
+   "name": "AgentRat",
+   "description": "The same thing we do every night, Pinky - try to take over the world!",
+   "ticker": "ARAT",
+   "homepage": "https://github.com/agent-rat/ada-stakepool",
+   "pledge_address": "addr1skreqsc2fkuu5m26ut27s7r8wfuwf02r7pr5ct265jwnc9tazhjej5fw905"
+ }
+

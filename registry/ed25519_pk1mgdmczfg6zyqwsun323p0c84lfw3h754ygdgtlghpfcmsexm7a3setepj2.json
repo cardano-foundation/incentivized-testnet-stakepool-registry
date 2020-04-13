@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1mgdmczfg6zyqwsun323p0c84lfw3h754ygdgtlghpfcmsexm7a3setepj2",
+  "name": "Carnivore Pool",
+  "description": "The Stake Pool for Steak People",
+  "ticker": "BEEF",
+  "homepage": "https://www.carnivorepool.com",
+  "pledge_address": "addr1shdph0qf9rggsp6rjw92y9lq7ha96xl6j53p4p0azu98rwrym0mkx2c0une"
+}
