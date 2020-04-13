@@ -1,7 +1,8 @@
 {
   "owner": "ed25519_pk1xvnhrg6fnrp2p0sxr2lhm9nt424ue6acyzfumr502l2jzwqn83xqwuzrqg",
-  "name": "X Pool Cardano",
-  "ticker": "XPOOL",
-  "homepage": "https://xpoolcardano.xyz/",
+  "name": "35x",
+  "description": "35x staking pool, run by highly capable team from India.",
+  "ticker": "35X",
+  "homepage": "https://35x.in/",
   "pledge_address": "addr1s5ejwudrfxvv9g97qcdt7lvkdw42hn8thqsf8nvw3ata2gfczv7yctp9qx6"
 }
