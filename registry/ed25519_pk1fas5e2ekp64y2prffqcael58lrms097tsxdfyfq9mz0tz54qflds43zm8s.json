@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1fas5e2ekp64y2prffqcael58lrms097tsxdfyfq9mz0tz54qflds43zm8s",
+  "name": "HIVE Staking Pool",
+  "description": "HIVE 1 percent Stake Pool",
+  "ticker": "HIVE",
+  "homepage": "https://hivestaking.com",
+  "pledge_address": "addr1s48kzn9txc8253gyd9yrrh87slu0wpuhewqe4y3yqhvfav2j5p8ak9j63nk"
+}

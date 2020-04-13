@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1fljsnak5m9xcs7uhfcn37glvn5rj77scl45ceamy29utn2z9a24qq0yzt5",
+  "name": "Centimani Stake Pool",
+  "description": "Second Cardano Stake Pool by Centimani.",
+  "ticker": "CEMA2",
+  "homepage": "https://centimani.io",
+  "pledge_address": "addr1s4872z0k6nv5mzrmja8zw8erajwswtm6rr7knr8hv3gh3wdggh425z666sv"
+}

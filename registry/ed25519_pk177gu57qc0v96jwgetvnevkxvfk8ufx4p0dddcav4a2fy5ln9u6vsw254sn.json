@@ -1,8 +1,8 @@
 {
 "owner": "ed25519_pk177gu57qc0v96jwgetvnevkxvfk8ufx4p0dddcav4a2fy5ln9u6vsw254sn",
 "name": "Pool verde usando fotovoltaica",
-"ticker": "FOTOV",
 "description": "Nodo creado en un equipo que usa energía verde en España",
+"ticker": "JPROE",
 "homepage": "https://joseapro.wixsite.com/shelleyfotovoltaica",
 "pledge_address": "addr1shmerjncrpash2fer9dj09jce3xcl3y659a44hr4jh4fyjn7vhnfjykay30"
 }

@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk18jzwyct034naacwkwagdcdx3y22ayj3ht43s80wthh8a9p8hze0q20prdf",
+  "name": "TricahuePool",
+  "description": "A StakePool Located in Chile",
+  "ticker": "TCHP",
+  "homepage": "https://exteroqs.github.io/TricahuePool",
+  "pledge_address": "addr1s57gfcnpd7xk0hhp6em4php56y3ft5j2xawkxqaaew7ul55y7ut9utzts39"
+}
