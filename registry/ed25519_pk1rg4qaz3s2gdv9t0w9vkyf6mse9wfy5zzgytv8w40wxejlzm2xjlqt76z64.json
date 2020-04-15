@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1rg4qaz3s2gdv9t0w9vkyf6mse9wfy5zzgytv8w40wxejlzm2xjlqt76z64",
+  "name": "TRIAD Stake Pool",
+  "ticker": "TRIAD",
+  "description": "Reliable stake pool for ADA holders",
+  "homepage": "https://www.facebook.com/pg/TriadStakePool",
+  "pledge_address": "addr1s5dz5r52xpfp4s4dac4jc38twry4eyjsgfq3dsa64acmxtutdg6tuhg2k79"
+}
