@@ -1,7 +1,7 @@
 {
   "owner": "ed25519_pk1s7alss8978ty273x4jqxst2hdxdtgqtz3l02ynfks4vphk6dht8qeqr2gs",
   "name": "Centimani Stake Pool",
-  "description": "Stakepool located in Singapore",
+  "description": "First Cardano Stake Pool by Centimani.",
   "ticker": "CEMA1",
   "homepage": "https://centimani.io",
   "pledge_address": "addr1skrmh7zquhcav3t6y6kgq6pd2a5e4dqpv28aagjdx6z4sx7mfkavuypahqt"
