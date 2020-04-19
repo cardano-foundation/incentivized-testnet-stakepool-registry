@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1hvfam0ruuy9kvfvuzarwys89x3qup05jpmxq49fkf50wrm6jyrnqg2gnu6",
+  "name": "Cardano Spain",
+  "description": "Cardano Spain Stakepool",
+  "ticker": "SPAIN",
+  "homepage": "https://cardanospain.github.io/",
+  "pledge_address": "addr1ska38hdu0nsske39nst5dcjqu56yrs97jg8vcz54xex3ac002gswvuzpn4y"
+}
