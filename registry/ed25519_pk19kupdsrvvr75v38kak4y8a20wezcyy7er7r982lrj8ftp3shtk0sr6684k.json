@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk19kupdsrvvr75v38kak4y8a20wezcyy7er7r982lrj8ftp3shtk0sr6684k",
+  "name": "ILYAS Pool",
+  "description": "The East African Cardano Stakepool",
+  "ticker": "ILYAS",
+  "homepage": "https://ilyasstakepool.online",
+  "pledge_address": "addr1s5kms9kqd3s063jy7mk65sl4famytqsnmy0cv5atuwga9vxxzawe7n8p2xk"
+}
