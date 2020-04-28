@@ -1,7 +1,8 @@
 {
   "owner": "ed25519_pk1xdj98xrcw866mmvnsdavwtzut3qcyy7wekw9plfgxh5y255guavqltrwep",
-  "name": "JADAA Stake Pool",
+  "name": "Japanese ADA A Stake Pool",
   "ticker": "JADAA",
-  "homepage": "http://jadaa.investmining.info/",
+  "description": "Profit for everyone with low fees and reliable operation",
+  "homepage": "https://jadaa.investmining.info/",
   "pledge_address": "addr1s5ekg5uc0pcltt0djwph43evt3wyrqsnemxec58a9q67s32j3rn4s5097hx"
 }
