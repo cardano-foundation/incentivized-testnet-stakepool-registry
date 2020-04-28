@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1lw4de27cn3u2l6fpu93kxv5zjuxlvzh7cymvy5rs6nhyhtlxx5vqkrqn5z",
+  "name": "FGEN-Mining Staking Pool",
+  "description": "FGEN-Mining Staking Pool",
+  "ticker": "FGEN",
+  "homepage": "https://www.fgen-mining.com",
+  "pledge_address": "addr1sha64h9tmzw83tlfy8skxcejs2tsmas2lmqndsjswr2wuja0uc63s6kdw3g"
+}
