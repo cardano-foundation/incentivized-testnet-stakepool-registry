@@ -1,0 +1,10 @@
+{
+  "owner": "ed25519_pk1mczyrvzuhpscc4vptuvw43u5uus66gu6ea6wfza3pg7nk0w2kudqe2fqmd",
+  "name": "testingpoolada",
+  "description": "testingpoolada support the Cardano network",
+  "ticker": "TPOOL",
+  "homepage": "https://testernode.github.io/testingpoolada/",
+  "pledge_address": "addr1sh0qgsdstjuxrrz4s90336k8jnnjrtfrnt8hfeytky9r6weae2m35u0srje"
+}
+
+
