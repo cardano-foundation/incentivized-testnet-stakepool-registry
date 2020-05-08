@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1xx40s9ycxyvv5d90kh8vqee0pm5rvwr3nl5wdx4v7m2xuf6nkraq46qmdq",
+  "name": "Plutus Stake Pool",
+  "ticker": "PLTUS",
+  "description": "Stake your $ADA with Plutus the greek god of wealth! Discounted 0% fee on the ITN",
+  "homepage": "https://twitter.com/plutuspool",
+  "pledge_address": "addr1s5c647q5nqc33j35476uasr89u8wsd3cwx073e564nmdgm382wc05hps7vg"
+}
