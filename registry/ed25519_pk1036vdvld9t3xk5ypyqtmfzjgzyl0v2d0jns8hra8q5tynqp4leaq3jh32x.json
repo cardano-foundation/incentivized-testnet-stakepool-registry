@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1036vdvld9t3xk5ypyqtmfzjgzyl0v2d0jns8hra8q5tynqp4leaq3jh32x",
+  "name": "YUMMY Stake Pool",
+  "description": "Grow your stack with YUMMY!",
+  "ticker": "YUMMY",
+  "homepage": "https://yummy-pool.com/",
+  "pledge_address": "addr1s478f34na54wy66ssysp0dy2fqgnaa3f472wq7u05uz3vjvqxhl85t97m9c"
+}

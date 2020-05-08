@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1k9esd7agvyq0ckm9ptl4znkw9m03h2rrvew974rncd8xqfqrh2sq6c2cjy",
+  "name": "Magic ADA",
+  "description": "Magic ADA is a low-fee, always-on, ADA stake pool",
+  "ticker": "MAGIC",
+  "homepage": "https://www.magicada.com",
+  "pledge_address": "addr1skchxphm4pssplzmv590752wechd7xagvdn9ch65w0p5ucpyqwa2q9j3awv"
+}

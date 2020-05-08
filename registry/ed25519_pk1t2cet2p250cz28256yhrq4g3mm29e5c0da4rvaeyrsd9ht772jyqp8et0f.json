@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1t2cet2p250cz28256yhrq4g3mm29e5c0da4rvaeyrsd9ht772jyqp8et0f",
+  "name": "1337",
+  "description": "Stake Pool run by a tricky DevOps professional",
+  "ticker": "1337",
+  "homepage": "https://stakepool1337.com",
+  "pledge_address": "addr1s4dtr9dg923lqfga2ngjuvz4z80dghxnpahk5dnhyswp5ka0me2gsm4qtpd"
+}
