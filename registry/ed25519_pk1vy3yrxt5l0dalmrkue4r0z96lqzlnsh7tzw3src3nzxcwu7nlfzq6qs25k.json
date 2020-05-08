@@ -1,0 +1,8 @@
+{
+	"owner": "ed25519_pk1vy3yrxt5l0dalmrkue4r0z96lqzlnsh7tzw3src3nzxcwu7nlfzq6qs25k",
+	"name": "Fresco Pool",
+	"description": "Community-focused stake pool with no fixed fees and no tax - inspired by The Venus Project",
+ 	"ticker": "VENUS",
+	"homepage": "https://frescopool.com",
+	"pledge_address": "addr1s4sjysvewnaahhlvwmnx5dughtuqt7wzlevf6xq0zxvgmpmn60ayguse9dr"
+}

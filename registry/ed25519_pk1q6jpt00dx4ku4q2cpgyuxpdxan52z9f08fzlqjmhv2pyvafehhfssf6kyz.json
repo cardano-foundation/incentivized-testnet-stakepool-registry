@@ -1,0 +1,9 @@
+{
+	"owner": "ed25519_pk1q6jpt00dx4ku4q2cpgyuxpdxan52z9f08fzlqjmhv2pyvafehhfssf6kyz",
+	"name":	"I delegate",
+	"ticker": "IDLG",
+	"description": "The high performance stakepool",
+	"homepage": "https://idelegate.eu",
+	"pledge_address": "addr1s5r2g9daa56kmj5ptq9qnsc95mkw3gg49uaytuztwa3gy3n48x7ax6nqjwm"
+}
+
