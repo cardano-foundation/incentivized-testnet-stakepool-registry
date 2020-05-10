@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk10f5a77adh3tzxlmhsldqyymt9dqxfpln3eca9kuutdu423yjxd9qeh5pm4",
+  "name": "Austria ADA Stake Pool Service",
+  "description": "great stakepool with low fees",
+  "ticker": "ASPS",
+  "homepage": "https://adastakepoolservice.com",
+  "pledge_address": "addr1s4axnhmm4k79vgmlw7ra5qsndv45qey87w88r5kmn3dhj42yjge55uc6uva"
+}
