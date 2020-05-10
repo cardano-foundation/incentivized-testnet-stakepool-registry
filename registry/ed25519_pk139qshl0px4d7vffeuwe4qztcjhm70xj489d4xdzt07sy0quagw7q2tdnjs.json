@@ -1,0 +1,8 @@
+{
+"owner": "ed25519_pk139qshl0px4d7vffeuwe4qztcjhm70xj489d4xdzt07sy0quagw7q2tdnjs",
+"name": "ADA VN Pool",
+"description" : "Vietnam based stakepool",
+"ticker": "AVN",
+"homepage": "https://www.adavnpool.com",
+"pledge_address": "addr1sky5zzlauy64he39883mx5qf0z2l0eu625u4k5e5fdl6q3urn4pmc98ffmz"
+}
