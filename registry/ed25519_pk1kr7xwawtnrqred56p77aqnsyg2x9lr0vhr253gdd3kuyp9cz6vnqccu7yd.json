@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1kr7xwawtnrqred56p77aqnsyg2x9lr0vhr253gdd3kuyp9cz6vnqccu7yd",
+  "name": "Blue Cheese Stake House",
+  "description": "Bare Metal Stakepool operated in Oregon, USA",
+  "ticker": "BCSH0",
+  "homepage": "https://bluecheesestakehouse.com",
+  "pledge_address": "addr1skc0cem4ewvvq09kng8mm5zwq3pgchudajud2j9p4kxmssyhqtfjvljtak5"
+}
