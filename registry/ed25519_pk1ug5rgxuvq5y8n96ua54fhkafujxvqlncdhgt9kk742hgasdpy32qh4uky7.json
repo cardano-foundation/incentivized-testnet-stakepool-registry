@@ -1,0 +1,8 @@
+{
+"owner": "ed25519_pk1ug5rgxuvq5y8n96ua54fhkafujxvqlncdhgt9kk742hgasdpy32qh4uky7",
+"name": "Koala Pool",
+"ticker": "KOALA",
+"description": "An Australain based pool helping Koalas survive the bushfire season",
+"homepage": "https://koalapool.org",
+"pledge_address": "addr1sh3zsdqm3szss7vhtnkj4x7m48jgesr70pkapvk6m642arkp5yj9gc5564a"
+}
