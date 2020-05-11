@@ -1,7 +1,8 @@
 {
     "owner": "ed25519_pk1r0a5ckmyuulmcqsjruy597x4xgudpnk2azqs4x4ttg42llnmryysezaa0g",
-    "name": "Sudo Stake",
-    "ticker": "SUDO",
-    "homepage": "https://sudostake.io/",
+    "name": "Zenith",
+    "description": "Aim for the top together. Previously Sudo Stake Pool.",
+    "ticker": "ZEN",
+    "homepage": "https://zenithpool.io/",
     "pledge_address": "addr1snrn4wdzdmd7lclpvctpyd49e49nu803ukcte5xfcwuxlgem82s8w4e6nzmsxhw9hexpt4an22up2gl02vx0w30pt0x3lh4xdkscmd0meuj7cl"
 }
