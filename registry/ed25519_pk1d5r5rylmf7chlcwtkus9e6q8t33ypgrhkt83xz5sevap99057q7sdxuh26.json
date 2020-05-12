@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1d5r5rylmf7chlcwtkus9e6q8t33ypgrhkt83xz5sevap99057q7sdxuh26",
+  "name": "Bridge Stake pool",
+  "description": "A place designed on the Cardano Blockchain to safely stake your Adas and get passive incomes",
+  "ticker": "BRIDGE",
+  "homepage": "bridgestakepool.wordpress.com",
+  "pledge_address": "addr1s4kswsvnld8mzllpewmjqh8gqawxys9qw7ev7yc2jr9n5y547ncr6py3kvm"
+            }
