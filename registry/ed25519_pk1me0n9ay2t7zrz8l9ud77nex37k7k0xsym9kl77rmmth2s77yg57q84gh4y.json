@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1me0n9ay2t7zrz8l9ud77nex37k7k0xsym9kl77rmmth2s77yg57q84gh4y",
+  "name": "DayTime",
+  "description": "Just a reliable low fee Cardano stake pool. Brought to you by DayTime.",
+  "ticker": "DTP",
+  "homepage": "https://www.daytimepool.com",
+  "pledge_address": "addr1sh097vh53f0cgvgluh3hm60y686m6eu6qnvkmlmc00dwa2rmc3znct99t7n"
+}
