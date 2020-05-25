@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk163963q54h39qnaan6grndq7zy4rpqu9vyhq75w4pyv20l4337ftqn3acs4",
+  "name": "HydraStakePool",
+  "ticker": "HSP",
+  "description": "The most advanced DPos pool, more information on https://hydrastakepool.org",
+  "homepage": "https://hydrastakepool.org",
+  "pledge_address": "addr1sh2yh2yzjk7y5z0hk0fqwd5rcgj5vyrs4sjur6365y33fl7kx8e9v3wpdfe"
+}

@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1v5we35s05qfhfx4rmpmcls9lhl6f5hnd8pceqzhfkldsycl9sdwqv30zmz",
+  "name": "Frlea Stake",
+  "description": "Stake Pool of Frlea",
+  "ticker": "FRLEA",
+  "homepage": "https://frlea.io",
+  "pledge_address": "addr1s4j3mxxjp7spxay650v80r7qh7llfxj7d5u8ryq2axmakqnrukp4cvrrmrw"
+}

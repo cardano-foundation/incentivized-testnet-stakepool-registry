@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1je7gjkgrfqasfug6zdnphwzdwxap465at3afm36pzkw679pwuagqev7ce3",
+  "name": "Raspberry Pool",
+  "description": "Une pool dans un Raspberry en ligne 24/7",
+  "ticker": "RAOOL",
+  "homepage": "https://www.raspberry-stakepool.fr",
+  "pledge_address": "addr1skt8ez2eqdyrkp83rgfkvxacf4cm5xh2n4w848w8gy2emtc59mn4q63ml4u"
+}

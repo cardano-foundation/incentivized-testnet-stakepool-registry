@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1vchhd0lk8ny9v2pvrgw0huhk28mwmq4vfdn02q6st5503ev6p2eqz40x7u",
+  "name": "Meow Pool",
+  "description": "Stake here, right meow.",
+  "ticker": "MEOW",
+  "homepage": "https://meowpool.cc",
+  "pledge_address": "addr1s4nz7a4l7c7vs43g9sdpe7lj7egldmvz439kdagr2pwj3789ng9ty7k4d4p"
+}
