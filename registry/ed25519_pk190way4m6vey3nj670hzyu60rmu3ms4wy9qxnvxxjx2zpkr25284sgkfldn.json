@@ -1,7 +1,7 @@
 {
-'owner':'ed25519_pk1nm8frtnm8r8yf7tn920akuhtw5s2xaug4mepk84kn3l9znansh0qn206ej',
-'name': 'Example stake pool name',
-'ticker': 'EXAMP',
-'homepage': 'https://example.org',
-'pledge_address': 'addr1sk0vaydw0vuvu38ewv4flkmjad6jpgmh3zh0yxc7k6w8u520kwzaus7z93h'
+'owner':'ed25519_pk190way4m6vey3nj670hzyu60rmu3ms4wy9qxnvxxjx2zpkr25284sgkfldn',
+'name': 'YOYOGI POOL',
+'ticker': 'YOYOG',
+'homepage': 'https://yoyogi-pool.site',
+'pledge_address':'addr1s54am5jh0fnyjxwtte7ugnnfu00j8wz4cs5q6dsc6geggxcd23g7kzn6zll'
 }
