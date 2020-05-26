@@ -1,7 +1,7 @@
 {
   "owner": "ed25519_pk1dpttkxmnphza3cz3kfg290wcx4dt0s6pjvmtnd0uwpmclc3duk4qtqvhat",
   "name": "ConsensusMonky Pool",
-  "description": "consensusMONKY is a secure, reliable and transparent Cardano stake pool. Our pool is located in Germany and is connected with other nodes in the US and in Australia. As a professional software engineer and a cardano enthusiast since August 2017, I'm offering you a stake pool with german reliability and 24/7 support. On main net we will offer smart contract services and general crypto support.",
+  "description": "consensusMONKY is a secure, reliable and transparent Cardano stake pool. Our pool is located in Germany, run by renewable energy sources and is connected with other nodes in the US and in Australia. As a professional software engineer and a cardano enthusiast since August 2017, I'm offering you a stake pool with german reliability and 24/7 support. On main net we will offer smart contract services and general crypto support.",
   "ticker": "MONKY",
   "homepage": "https://consensusmonky.de",
   "pledge_address": "addr1s459dwcmwvxutk8q2xe9pg4amq644d7rgxfndwd4l3c80rlz9hj65xgchsm"
