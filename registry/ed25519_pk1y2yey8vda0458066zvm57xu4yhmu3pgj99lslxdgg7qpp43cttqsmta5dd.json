@@ -1,0 +1,9 @@
+{
+  "owner": "ed25519_pk1y2yey8vda0458066zvm57xu4yhmu3pgj99lslxdgg7qpp43cttqsmta5dd",
+  "name": "Cardanolab",
+  "description": "This is a cardano stake pool, made with love in Austria",
+  "ticker": "CLAB",
+  "homepage": "https://cardanolab.at",
+  "pledge_address": "addr1s53gnysa3h47ksaltgfnwncmj5jl0jy9zg5h7rue4prcqyxk8pdvzwlg6jz"
+}
+
