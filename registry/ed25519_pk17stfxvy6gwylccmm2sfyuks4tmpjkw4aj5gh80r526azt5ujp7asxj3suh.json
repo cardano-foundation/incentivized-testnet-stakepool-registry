@@ -2,7 +2,7 @@
   "owner": "ed25519_pk17stfxvy6gwylccmm2sfyuks4tmpjkw4aj5gh80r526azt5ujp7asxj3suh",
   "name": "Beaver Pool",
   "ticker": "BEAVR",
-  "description": "1% Tax Pool in Canada",
+  "description": "Low-fee Tax Pool Located in Canada",
   "homepage": "https://github.com/BeaverPool/",
   "pledge_address": "addr1sh6pdyesnfpcnlrr0d2pynj6z40vx2e6hk23zuauw3tt5fwnjg8mky80hey"
 }

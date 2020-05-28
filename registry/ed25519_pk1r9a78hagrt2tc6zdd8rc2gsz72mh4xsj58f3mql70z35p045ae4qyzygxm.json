@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1r9a78hagrt2tc6zdd8rc2gsz72mh4xsj58f3mql70z35p045ae4qyzygxm",
+  "name": "CROWN Stake Pool",
+  "description": "Reliable staking service",
+  "ticker": "CROWN",
+  "homepage": "https://stakeadacoins.io",
+  "pledge_address": "addr1s5vhhc7l4qddf0rgf45u0pfzqtetw756z2sax8vrleu2xs97knhx5fhkp20"
+}

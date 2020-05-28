@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1x053ngzpl8y0jseh879fmdt2qjn5glqysk9lqu8eyfnmam9f2pdschagxd",
+  "name": "Cardano Staking Hub CSH01 Cardano Stake Pool",
+  "description": "CSH01 ADA Stake Pool - Low Fees, High ADA Rewards, Reliable stake Pool deployed on AWS",
+  "ticker": "CSH01",
+  "homepage": "https://www.cardanostakinghub.com",
+  "pledge_address": "addr1s5e7jxdqg8uu372rxulc48d4dgz2w3ruqjzchursly3x00hv49g9kmh20k7"
+}
