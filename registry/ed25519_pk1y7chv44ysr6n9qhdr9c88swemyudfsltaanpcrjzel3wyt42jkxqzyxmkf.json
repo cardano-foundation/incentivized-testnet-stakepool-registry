@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1y7chv44ysr6n9qhdr9c88swemyudfsltaanpcrjzel3wyt42jkxqzyxmkf",
+  "name": "RIOT Stake Pool",
+  "description": "the pool for rebel souls! Be sure to check our website for full info about us",
+  "ticker": "RIOT",
+  "homepage": "https://riotpools.com",
+  "pledge_address": "addr1s5nmzajk5jq02v5za5vhqu7pm8vn34xra0hkv8qwgt879c3w422cca7rjms"
+}
