@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1xx0q369rd7ugxe6krl5mwangklh99pp3e8p8kg9zuue6uelq249qgxthf2",
+  "name": "CardanOasis",
+  "description": "CardanOasis - ADA stake pool hosted in the UAE",
+  "ticker": "ADAOA",
+  "homepage": "https://cardanoasis.com",
+  "pledge_address": "addr1s5ceuz8g5dhm3qm82c07ndmkdzm7u55yx8yuy7eq5tnn8tn8up255pte9k2"
+}
