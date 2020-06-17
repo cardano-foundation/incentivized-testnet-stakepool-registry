@@ -2,7 +2,7 @@
   "owner": "ed25519_pk1t9729rkgalfgljq5ye3haqaav33kcwznzkd08v4xjdpqsv0ms6cqqw893g",
   "name": "SAIGONAM",
   "description": "Cardano Staking Pool from Saigon",
-  "ticker": "SAIGONPOOL",
+  "ticker": "SIG",
   "homepage": "thewebsiteofyourstakepool",
   "pledge_address": "addr1s4vheg5werha9r7gzsnxxl5rh4jxxmpc2v2e4uaj56f5yzp3lwrtqtqfyg3"
 }
