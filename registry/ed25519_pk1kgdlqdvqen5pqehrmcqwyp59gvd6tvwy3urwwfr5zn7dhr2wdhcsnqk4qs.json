@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1kgdlqdvqen5pqehrmcqwyp59gvd6tvwy3urwwfr5zn7dhr2wdhcsnqk4qs",
+  "name": "BOBA Stake Pool",
+  "description": "ADA Milk Tea pool with BOBA",
+  "ticker": "BOBA",
+  "homepage": "https://boba.lytescientific.com",
+  "pledge_address": "addr1skephup4srxwsyrxu00qpcsxs4p3hfd3cj8sdeeyws20ekudfeklzslprur"
+}
