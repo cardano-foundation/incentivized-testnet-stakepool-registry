@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1nk5gfqxq2j5mxjhzlfhn3mf7axh34xt5wjsvrxjewe4z2365nleq58t3zv",
+  "name": "OMEGADA stake pool.",
+  "ticker": "OMADA",
+  "description": "2% stake pool hosted on Google Cloud Platform in the USA.",
+  "homepage": "https://omegada.wixsite.com/website",
+  "pledge_address": "addr1skw63pyqcp22nv62utax7w8d8m567x5ew362psv6t9mx5f282j0lyyhq2sn"
+}
