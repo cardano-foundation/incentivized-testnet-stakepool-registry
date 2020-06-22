@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1px57d53asdfdmgjd6zj86gw80yf6yxkg870se0688x6p8tyqtv3sucpr8n",
+  "name": "Staking.Cash Pool",
+  "description": "Staking.Cash high performance Cardano ADA staking pool.",
+  "ticker": "CASH",
+  "homepage": "https://staking.cash",
+  "pledge_address": "addr1s5y6nekj8kp49hdzfhg2glfpcau38gs6eqle7r9lguumgyavspdjxh7a0c7"
+}

@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk14pemr87ptqeph42qrwkyj382y35yp5z303lp2m9lpdldkr59sp9q97rxnd",
+  "name": "Orbital Swarm",
+  "description": "Orbital node swarm",
+  "homepage": "https://orbitalswarm.space",
+  "ticker": "ORBIT",
+  "pledge_address": "addr1sk588vvlc9vryx74gqd6cj2yagjxssxs2978u9tvhu9hakcwskqy5lm786c"
+}

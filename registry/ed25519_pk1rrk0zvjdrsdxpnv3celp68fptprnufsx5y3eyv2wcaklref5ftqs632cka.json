@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk1rrk0zvjdrsdxpnv3celp68fptprnufsx5y3eyv2wcaklref5ftqs632cka",
+  "name": "ADA Proxy",
+  "ticker": "APROX",
+  "description": "Distributed and dedicated hardware and custom software built to scale with Cardano",
+  "homepage": "https://www.adaproxy.com",
+  "pledge_address": "addr1s489ccns7c2m7dwm8mz5sm9kwejkjqdmp2t2gjt5nl7mktxp78t3qute8rk"
+}

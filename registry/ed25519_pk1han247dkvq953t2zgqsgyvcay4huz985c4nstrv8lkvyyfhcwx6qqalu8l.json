@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1han247dkvq953t2zgqsgyvcay4huz985c4nstrv8lkvyyfhcwx6qqalu8l",
+    "name": "Doxa Stake Pool",
+    "ticker": "DOXA",
+    "description": "Doxa Stake Pool on the Cardano Blockchain",
+    "homepage": "https://doxapool.com",
+    "pledge_address": "addr1sklkd2hekesqkj9dgfqzpq3nr5jklsg57nzkwpvdsl7ess3xlpcmgkhn6yp"
+}

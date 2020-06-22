@@ -1,0 +1,8 @@
+{
+"owner": "ed25519_pk13a8f7slkx0jsaxkdpusajz3p2j86gzglan8rqxd3wss43w30uqlq9nm8cr",
+"name": "SAGE Stakepool",
+"description": "Low Fee & Wise Staking for a SAGE Cardano",
+"ticker": "SAGE",
+"homepage": "https://www.AstuteProvider.com/SAGE-Pool",
+"pledge_address": "addr1sk85a86r7ce72r56e58jrkg2y92glfqfrlkvuvqek96zzk969lsruedpx44"
+}

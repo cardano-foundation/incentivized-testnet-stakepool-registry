@@ -1,0 +1,8 @@
+{
+  "owner": "ed25519_pk16dhcd87z9vj9kkq5uwrmntts9j6253xtgj9lxyypejwqhny4qess8pm0s8",
+  "name": "2 Percent Stake Pool - #7",
+  "description": "The 2 Percent Pool is dedicated to run stake pools with only 2% fee - ALWAYS!",
+  "ticker": "2PCT7",
+  "homepage": "https://2percentpools.live",
+  "pledge_address": "addr1shfklp5lcg4jgk6czn3c0wddwqktf2jyedzghucss8xfcz7vj5rxzh85mwt"
+}
