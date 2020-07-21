@@ -1,0 +1,8 @@
+{
+	"owner": "ed25519_pk1n2tspc8p388n6x6ld0e7edqrex2jnj3vyj8xqp5rm7mptru3urhqwpyzh7",
+	"name": "The Otter Potter Stake Pool",
+	"description": "A beatuful and responsible stake pool on the Cardano Network",
+	"ticker": "OTTER",
+	"homepage": "https://otterpotter.host",
+	"pledge_address": "addr1s0nyt67uwcg7dahrxug698h5xfasnyd5qhnsd0h0peqlqvtfqf48ymz680l"
+}

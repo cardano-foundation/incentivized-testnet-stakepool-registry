@@ -2,7 +2,7 @@
   "owner": "ed25519_pk1ycsw3xjneq0cx8qa2j8mm3lnmeyn34g4l0ywur4cvdmx0z4a4vrscycc7y",
   "name": "AdaStars Pool",
   "ticker": "ASTAR",
-  "description": "AdaStars Pool - Cardano stake pools with low fees, high security and reliability",
-  "homepage": "https://adastars.godaddysites.com",
+  "description": "AdaStars Pool - Cardano staking pool with low fees and high security and reliability",
+  "homepage": "https://photrek.world/adastars-cardano-staking",
   "pledge_address": "addr1s5nzp6y620yplqcur42gl0w8700yjwx4zhau3mswhp3hveu2hk4swp3qq0s"
 }

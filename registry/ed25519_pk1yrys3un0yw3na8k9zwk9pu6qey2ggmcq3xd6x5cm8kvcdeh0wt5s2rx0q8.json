@@ -1,9 +1,9 @@
 {
   "owner": "ed25519_pk1yrys3un0yw3na8k9zwk9pu6qey2ggmcq3xd6x5cm8kvcdeh0wt5s2rx0q8",
-  "name": "CardanoStakePool.io",
+  "name": "Capital Stake Pool",
   "ticker": "CSP",
   "description": "A secure and reliable stake pool. No fixed fee, only 2% of variable fee.",
-  "homepage": "https://cardanostakepool.io",
+  "homepage": "https://capitalstakepool.info",
   "pledge_address": "addr1s5svjz8jdu36x057c5f6c58ngry3fpr0qzyehg6nrv7enphxaaewjfgx7r6"
 }
 
