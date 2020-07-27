@@ -1,0 +1,8 @@
+{
+'owner': 'ed25519_pk1vtnqhfx3s2nzak5wdxugsmfq0v0m2xkfmg27t2fxxlqcjqt68h0szg3g6t',
+'name': 'Aus Staker',
+'description': 'Low fees, always on, always secure. Australia based stakepool',
+'ticker': 'AUSST',
+'homepage': 'https://ausstaker.com.au',
+'pledge_address': 'addr1s43wvzay6xp2vtk63e5m3zrdypa3ldg6e8dptedfycmurzgp0g7a76s25kl'
+}
